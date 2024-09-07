@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Profile</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+  <style>
+    .profile-container {
+      background-color: #f9f9f9; /* Light gray background */
+      border-radius: 20px; /* Rounded corners */
+      border: 2px solid #ddd; /* Light border */
+      padding: 20px;
+      margin: 50px auto;
+      max-width: 600px;
+      position: relative; /* Positioning for UI elements */
+    }
+    .profile-container {
+  background-color: #f9f9f9; /* Light gray background */
+  border-radius: 20px; /* Rounded corners */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+.profile-container .profile-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-container .profile-details {
+  list-style-type: none;
+  padding: 0;
+}
+
+.profile-container .profile-details li {
+  margin-bottom: 15px;
+}
+
+.profile-container .profile-details span {
+  font-weight: bold;
+  margin-right: 10px;
+  color: #666; /* Dark gray color */
+}
+
+.profile-container .profile-details .icon {
+  margin-right: 10px;
+  color: #5f1782;
+}
+
+/* Adjustments to username */
+.profile-container .profile-header #username {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #1a1a1a;
+}
+.profile-container {
+  background-color: #f9f9f9; /* Light gray background */
+  border-radius: 20px; /* Rounded corners */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  padding: 20px;
+  margin: 50px auto;
+  max-width: 600px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; /* Smooth transition */
+}
+
+.profile-container:hover {
+  transform: scale(1.05); /* Slightly increase the size */
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* Increase shadow effect */
+  background-color: #e9ecef; /* Change background color on hover */
+}
+
+.profile-container .profile-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-container .profile-details {
+  list-style-type: none;
+  padding: 0;
+}
+
+.profile-container .profile-details li {
+  margin-bottom: 15px;
+}
+
+.profile-container .profile-details span {
+  font-weight: bold;
+  margin-right: 10px;
+  color: #666; /* Dark gray color */
+}
+
+.profile-container .profile-details .icon {
+  margin-right: 10px;
+  color: #5f1782;
+}
+
+/* Adjustments to username */
+.profile-container .profile-header #username {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #1a1a1a;
+}
+
+    .profile-container::before,
+    .profile-container::after {
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: -10px;
+      right: -10px;
+      bottom: -10px;
+      border: 2px solid #ddd; /* Light border */
+      border-radius: 20px; /* Rounded corners */
+      z-index: -1; /* Behind the content */
+    }
+    
+    .profile-container::before {
+      border-bottom: none; /* Remove bottom border */
+      border-right: none; /* Remove right border */
+    }
+    
+    .profile-container::after {
+      border-top: none; /* Remove top border */
+      border-left: none; /* Remove left border */
+    }
+    
+    .profile-container .profile-header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .profile-container .profile-details {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    .profile-container .profile-details li {
+      margin-bottom: 15px;
+    }
+    
+    .profile-container .profile-details span {
+      font-weight: bold;
+      margin-right: 10px;
+      color: #666; /* Dark gray color */
+    }
+    
+    .profile-container .profile-details .icon {
+      margin-right: 10px;
+      color: #5f1782;
+    }
+    
+    /* Adjustments to username */
+    .profile-container .profile-header #username {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #1a1a1a;
+    }
+    
+    body {
+      font-family: 'Nunito', sans-serif;
+      background-color: #F1F1F1;
+      color: #333;
+    }
+
+    .profile-container {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      margin: 50px auto;
+      padding: 20px;
+      max-width: 600px;
+    }
+
+    .profile-header {
+      text-align: center;
+    }
+
+    .profile-header h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+
+    .profile-details {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .profile-details li {
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+    }
+
+    .profile-details span {
+      font-weight: bold;
+      margin-right: 10px;
+    }
+
+    .profile-details .icon {
+      margin-right: 10px;
+      color: #5f1782;
+    }
+    .profile-header #username {
+      font-family: Georgia, 'Times New Roman', Times, serif; /* Classic serif font */
+      color: #1a1a1a; /* Almost black color */
+    }
+    
+    
+    
+    .profile-details span,
+    .profile-details #username,
+    .profile-details #email,
+    .profile-details #age,
+    .profile-details #dob,
+    .profile-details #gender {
+      color: #5f1782;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: sans-serif;
+    }
+
+    #nav-bar {
+      position: fixed;
+      top: 0;
+      z-index: 10;
+      width: 100vw;
+    }
+
+    .navbar {
+      background-image: linear-gradient(to right, #a517ba, #5f1782);
+      padding: 0;
+    }
+
+    .navbar-brand img {
+      height: 50px;
+      padding-left: 20px;
+    }
+
+    .navbar-nav li {
+      padding: 0 10px;
+    }
+
+    .navbar-nav li a {
+      color: #ffffff;
+      font-weight: 600;
+      float: right;
+      text-align: left;
+      position: relative;
+      display: block;
+      padding: 10px 15px;
+    }
+
+    .navbar-nav li a.active::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 6px;
+      background-color: #fff;
+      border-radius: 2px;
+    }
+
+    .material-symbols-outlined {
+      color: #fff;
+      font-size: 30px;
+    }
+
+    .navbar-toggler {
+      outline: none;
+    }
+
+    #banner {
+      background-image: linear-gradient(to right, #a517ba, #5f1782);
+      color: #fff;
+      padding-top: 5%;
+      position: relative;
+    }
+
+    .promo-title {
+      font-size: 40px;
+      font-weight: 600;
+      margin-top: 100px;
+    }
+
+    .play-btn {
+      width: 45px;
+      margin: 20px;
+    }
+
+    #banner a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .image-fluid {
+      height: 300px;
+      width: 400px;
+    }
+
+    .bottom-image {
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    }
+
+    #services {
+      padding: 80px 0;
+    }
+
+    .services-img {
+      width: 100px;
+      margin-top: 20px;
+    }
+
+    .services {
+      padding: 20px;
+    }
+
+    .services h4 {
+      padding: 5px;
+      margin-top: 25px;
+      text-transform: uppercase;
+    }
+
+    .title::before {
+      content: "";
+      background: #7b1798;
+      height: 5px;
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      transform: translateY(63px);
+    }
+
+    .title::after {
+      content: "";
+      background: #7b1798;
+      height: 10px;
+      width: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 40px;
+      display: block;
+      transform: translateY(8px);
+    }
+
+    #services .btn-primary {
+      box-shadow: none;
+      padding: 8px 25px;
+      border: none;
+      border-radius: 20px;
+      background-image: linear-gradient(to right, #a517ba, #5f1782);
+    }
+
+    #about-us {
+      background: #f8f9fa;
+      padding-bottom: 50px;
+      padding-top: 50px;
+    }
+
+    .about-title {
+      font-size: 40px;
+      font-weight: 600;
+      margin-top: 8%;
+    }
+
+    #about-us ul li {
+      margin: 10px 0;
+    }
+
+    #about-us ul {
+      margin-left: 20px;
+    }
+
+    #testimonals {
+      margin: 100px 0;
+    }
+
+    .testimonals {
+      border-left: 4px solid #7b1798;
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+
+    .testimonals img {
+      height: 60px;
+      width: 60px;
+      border-radius: 50%;
+      margin: 0 10px;
+    }
+
+    .user-details {
+      display: inline-block;
+      font-size: 12px;
+    }
+
+    #social-media {
+      background: #f8f9fa;
+      padding: 100px 0;
+    }
+
+    #social-media p {
+      font-size: 40px;
+    }
+
+    .social-icons img {
+      width: 60px;
+      transition: 0.5s;
+    }
+
+    .social-icons a:hover img {
+      transform: translateY(-20px);
+    }
+
+    #footer {
+      background-image: linear-gradient(to right, #a517ba, #5f1782);
+      color: #fff;
+    }
+
+    .footer-img {
+      width: 60px;
+    }
+
+    #footer img {
+      width: 60px;
+    }
+
+    #footer p {
+      margin-top: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .image-fluid {
+        width: 300px;
+      }
+
+      #nav-bar {
+        position: relative;
+      }
+
+      .navbar-brand img {
+        height: 40px;
+      }
+
+      .navbar-toggler {
+        color: #fff;
+      }
+
+      .navbar-collapse {
+        background: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        position: absolute;
+        width: 100%;
+        top: 70px;
+        left: 0;
+        z-index: 9;
+        padding: 10px;
+        display: none;
+      }
+
+      .navbar-nav {
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+      }
+
+      .navbar-nav li {
+        width: 100%;
+        padding: 10px 0;
+      }
+
+      .navbar-nav li a {
+        float: none;
+      }
+
+      .navbar-nav li a.active::after {
+        display: none;
+      }
+
+      .navbar-toggler {
+        display: block;
+      }
+    }
+    .profile-container {
+      background-color: #f9f9f9; /* Light gray background */
+      border-radius: 20px; /* Rounded corners */
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Shadow effect */
+      padding: 20px;
+      margin: 50px auto;
+      max-width: 600px;
+      position: relative; /* Positioning for pseudo-elements */
+      transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; /* Smooth transition */
+    }
+    
+    .profile-container::before,
+    .profile-container::after {
+      content: "";
+      position: absolute;
+      top: -10px;
+      left: -10px;
+      right: -10px;
+      bottom: -10px;
+      border: 2px solid #5f1782; /* Purple border */
+      border-radius: 20px; /* Rounded corners */
+      z-index: -1; /* Behind the content */
+      transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+    }
+    
+    .profile-container::before {
+      border-bottom: none; /* Remove bottom border */
+      border-right: none; /* Remove right border */
+    }
+    
+    .profile-container::after {
+      border-top: none; /* Remove top border */
+      border-left: none; /* Remove left border */
+    }
+    
+    .profile-container:hover::before,
+    .profile-container:hover::after {
+      transform: scale(1.05); /* Slightly increase the size */
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* Increase shadow effect */
+    }
+    
+    .profile-container:hover {
+      transform: scale(1.05); /* Slightly increase the size */
+      background-color: #e9ecef; /* Change background color on hover */
+    }
+    
+    .profile-header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .profile-details {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    .profile-details li {
+      margin-bottom: 15px;
+    }
+    
+    .profile-details span {
+      font-weight: bold;
+      margin-right: 10px;
+      color: #666; /* Dark gray color */
+    }
+    
+    .profile-details .icon {
+      margin-right: 10px;
+      color: #5f1782; /* Purple icon color */
+    }
+    
+    /* Adjustments to username */
+    .profile-header #username {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: #1a1a1a;
+    }
+    
+  </style>
+</head>
+
+<body>
+  <section id="nav-bar">
+    <nav class="navbar navbar-expand-lg navbar-light ">
+      <a class="navbar-brand" href="#"><img src="logo.png" alt=""></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="material-symbols-outlined">
+          menu
+        </span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="home.html">HOME</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="home.html">ABOUT US</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="testimonialsDropdown" role="button"
+              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              JOB SECTORS
+            </a>
+            <div class="dropdown-menu" aria-labelledby="testimonialsDropdown">
+              <a class="dropdown-item" href="governhome.html">Government</a>
+              <a class="dropdown-item" href="private_home.html">Private</a>
+              <a class="dropdown-item" href="self.html">Self Employment</a>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </section>
+  <!-- --------------------banner section----------------------- -->
+  <section id="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1 class="promo-title" id="welcomeMessage">Hello</h1>
+        </div>
+        <div class="col-md-6 text-center">
+          <img src="https://i.postimg.cc/0NgsZnwX/home2.png" class="image-fluid" alt="">
+        </div>
+      </div>
+    </div>
+    <img src="https://i.postimg.cc/CKJcdLSC/wave1.png" class="bottom-image" alt="">
+  </section>
+
+  <div class="profile-container">
+    <div class="profile-header">
+      <h1 id="username">Username</h1>
+      
+    </div>
+    <ul class="profile-details">
+      
+      <li><i class="fas fa-envelope icon"></i><span>Email:</span> <span id="email"></span></li>
+      <li><i class="fas fa-calendar-alt icon"></i><span>Age:</span> <span id="age"></span></li>
+      <li><i class="fas fa-birthday-cake icon"></i><span>Date of Birth:</span> <span id="dob"></span></li>
+      <li><i class="fas fa-venus-mars icon"></i><span>Gender:</span> <span id="gender"></span></li>
+    </ul>
+  </div>
+
+  <!-- Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-database.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyASANA7Vy9VqK_5J-snw_cSAa17ePbKOOk",
+      authDomain: "mini-project-78029.firebaseapp.com",
+      databaseURL: "https://mini-project-78029-default-rtdb.firebaseio.com",
+      projectId: "mini-project-78029",
+      storageBucket: "mini-project-78029.appspot.com",
+      messagingSenderId: "760511273591",
+      appId: "1:760511273591:web:e4445d8e9075aea9c8c472",
+      measurementId: "G-PRGKY16RZW"
+
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+
+    // Ensure Firebase is ready before accessing auth state
+    firebase.auth().onAuthStateChanged(function (user) {
+      if (user) {
+        // User is signed in.
+        fetchUserProfile(user);
+      } else {
+        console.log("User not signed in.");
+      }
+    });
+
+    // Fetch user details
+    function fetchUserProfile(user) {
+      var userId = user.uid;
+      firebase.database().ref('/users/' + userId).once('value').then(function (snapshot) {
+        var userData = snapshot.val();
+        if (userData) {
+          // Update the welcome message dynamically
+          document.getElementById('welcomeMessage').innerText = "Hello " + (userData.username || "N/A");
+          // Update other user details
+          document.getElementById('username').innerText = userData.username || "N/A";
+          document.getElementById('age').innerText = userData.age || "N/A";
+          document.getElementById('email').innerText = userData.email || "N/A";
+          document.getElementById('dob').innerText = userData.dob || "N/A";
+          document.getElementById('gender').innerText = userData.gender || "N/A";
+        } else {
+          console.log("User data not found.");
+        }
+      }).catch(function (error) {
+        console.error("Error fetching user data:", error);
+      });
+    }
+  </script>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

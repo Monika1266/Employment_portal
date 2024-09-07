@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+  <title>EMPLOYMENT PORTAL</title>
+  <style>
+    * {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+}
+/*----------------head section----------------------------*/
+#nav-bar {
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  width: 100vw;
+}
+.navbar {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0;
+}
+.navbar-brand img {
+  height: 50px;
+  padding-left: 20px;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  color: #ffffff;
+  font-weight: 600;
+  float: right;
+  text-align: left;
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+}
+.navbar-nav li a.active::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 6px;
+      background-color:#fff;
+      border-radius: 2px;
+    }
+.material-symbols-outlined {
+  color: #fff;
+  font-size: 30px;
+}
+.navbar-toggler {
+  outline: none;
+}
+/*-------------------banner section-------------------------*/
+#banner {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+  padding-top: 5%;
+}
+.promo-title {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 100px;
+}
+.play-btn {
+  width: 45px;
+  margin: 20px;
+}
+#banner a {
+  color: #fff;
+  text-decoration: none;
+}
+.image-fluid {
+  height: 300px;
+  width: 400px;
+}
+.bottom-image {
+  width: 100%;
+}
+/*---------------------services section------------------------------*/
+#services {
+  padding: 80px 0;
+}
+.services-img {
+  width: 100px;
+  margin-top: 20px;
+}
+.services {
+  padding: 20px;
+}
+.services h4 {
+  padding: 5px;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+.title::before {
+  content: "";
+  background: #7b1798;
+  height: 5px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  transform: translateY(63px);
+}
+.title::after {
+  content: "";
+  background: #7b1798;
+  height: 10px;
+  width: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  display: block;
+  transform: translateY(8px);
+}
+#services .btn-primary {
+  box-shadow: none;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+/*------------------about us section-----------------------------------*/
+#about-us {
+  background: #f8f9fa;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.about-title {
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 8%;
+}
+#about-us ul li {
+  margin: 10px 0;
+}
+#about-us ul {
+  margin-left: 20px;
+}
+/*-------------testimonals section-----------------*/
+#testimonals {
+  margin: 100px 0;
+}
+.testimonals {
+  border-left: 4px solid #7b1798;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.testimonals img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin: 0 10px;
+}
+.user-details {
+  display: inline-block;
+  font-size: 12px;
+}
+/*-----------------social media section-----------------------------*/
+#social-media {
+  background: #f8f9fa;
+  padding: 100px 0;
+}
+#social-media p {
+  font-size: 40px;
+}
+.social-icons img {
+  width: 60px;
+  transition: 0.5s;
+}
+.social-icons a:hover img {
+  transform: translateY(-20px);
+}
+/*-------------footer section--------------------------------*/
+#footer {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+  color: #fff;
+}
+.footer-img {
+  width: 100%;
+}
+.footer-box {
+  padding: 20px;
+}
+.footer-box img {
+  width: 120px;
+  margin-bottom: 20px;
+}
+.footer-box .material-symbols-outlined {
+  margin-right: 8px;
+  font-size: 25px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  padding-top: 7px;
+
+  border-radius: 2px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+.footer-box .form-control {
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+  margin-top: 25px;
+  max-width: 250px;
+}
+.footer-box .btn-primary {
+  box-shadow: none;
+  border: none;
+  border-radius: 0;
+  margin-top: 30px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+hr {
+  background-color: #fff;
+}
+.copyright {
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  text-align: center;
+}
+#about-us {
+      background: #f8f9fa;
+      padding-bottom: 50px;
+      padding-top: 50px;
+    }
+
+    .about-title {
+      font-size: 40px;
+      font-weight: 600;
+      margin-top: 8%;
+      color: #333; /* Adjust color as needed */
+    }
+
+    #about-us p {
+      font-size: 18px;
+      color: #555; /* Adjust color as needed */
+    }
+
+    #about-us ul {
+      margin-left: 20px;
+      list-style-type: none;
+      padding: 0;
+    }
+
+    #about-us ul li {
+      margin: 10px 0;
+      position: relative;
+      padding-left: 30px;
+    }
+
+    #about-us ul li::before {
+      content: "\2022"; /* Use a bullet point as a list item marker */
+      color: #a517ba; /* Adjust color as needed */
+      font-size: 24px;
+      position: absolute;
+      left: 0;
+    }
+
+    /* Why Choose Us Section */
+    #why-choose-us {
+      background: #ffffff;
+      padding: 80px 0;
+    }
+
+    .feature-box {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .feature-box span {
+      color: #a517ba; /* Adjust color as needed */
+      font-size: 36px;
+    }
+
+    .feature-box h3 {
+      font-size: 24px;
+      margin-top: 15px;
+      margin-bottom: 10px;
+      color: #333; /* Adjust color as needed */
+    }
+
+    .feature-box p {
+      font-size: 16px;
+      color: #555; /* Adjust color as needed */
+    }
+    #chemistry-branches {
+      background: #f8f9fa;
+      padding: 80px 0;
+    }
+
+    .branch-box {
+      text-align: center;
+      padding: 20px;
+      border: 1px solid #ddd; /* Adjust border color */
+      margin-bottom: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s;
+      background-color: #f5e2e2; /* Adjust background color */
+    }
+
+    .branch-box:hover {
+      transform: scale(1.05);
+    }
+
+    .branch-box h3 {
+      font-size: 24px;
+      color: #800000; /* Adjust color as needed */
+    }
+
+    .branch-box p {
+      font-size: 16px;
+      color: #a80000; /* Adjust color as needed */
+    }
+    /* Add this to your existing CSS or modify as needed */
+
+/* Style for the dropdown menu */
+.dropdown-menu {
+  background-color: #343a40; /* Background color of the dropdown */
+}
+
+.dropdown-item {
+  color: #ffffff; /* Text color of dropdown items */
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  background-color: #5a6268; /* Background color on hover/focus */
+}
+
+/* Style for the dropdown toggle link */
+.navbar-nav li.dropdown:hover > a.nav-link {
+  color: #ffffff !important; /* Text color of the dropdown toggle link on hover */
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+    background: #F1F1F1;
+}
+
+*, html {
+    --primaryGradient: linear-gradient(93.12deg, #581B98 0.52%, #9C1DE7 100%);
+    --secondaryGradient: linear-gradient(268.91deg, #581B98 -2.14%, #9C1DE7 99.69%);
+    --primaryBoxShadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    --secondaryBoxShadow: 0px -10px 15px rgba(0, 0, 0, 0.1);
+    --primary: #581B98;
+}
+/* CHATBOX
+=============== */
+.chatbox {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+/* CONTENT IS CLOSE */
+.chatbox__support {
+    display: flex;
+    flex-direction: column;
+    background: #eee;
+    width: 300px;
+    height: 350px;
+    z-index: -123456;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+
+/* CONTENT IS OPEN */
+.chatbox--active {
+    transform: translateY(-40px);
+    z-index: 123456;
+    opacity: 1;
+}
+
+/* BUTTON */
+.chatbox__button {
+    text-align: right;
+}
+
+.send__button {
+    padding: 6px;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+/* HEADER */
+.chatbox__header {
+    position: sticky;
+    top: 0;
+    background: orange;
+}
+
+/* MESSAGES */
+.chatbox__messages {
+    margin-top: auto;
+    display: flex;
+    overflow-y: scroll;
+    flex-direction: column-reverse;
+}
+
+.messages__item {
+    background: orange;
+    max-width: 60.6%;
+    width: fit-content;
+}
+
+.messages__item--operator {
+    margin-left: auto;
+}
+
+.messages__item--visitor {
+    margin-right: auto;
+}
+
+/* FOOTER */
+.chatbox__footer {
+    position: sticky;
+    bottom: 0;
+}
+
+.chatbox__support {
+    background: #f9f9f9;
+    height: 450px;
+    width: 350px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+/* HEADER */
+.chatbox__header {
+    background: var(--primaryGradient);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: var(--primaryBoxShadow);
+}
+
+.chatbox__image--header {
+    margin-right: 10px;
+}
+
+.chatbox__heading--header {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.chatbox__description--header {
+    font-size: 0.9rem;
+    color: white;
+}
+
+/* Messages */
+.chatbox__messages {
+    padding: 0 20px;
+}
+
+.messages__item {
+    margin-top: 10px;
+    background: #E0E0E0;
+    padding: 8px 12px;
+    max-width: 70%;
+}
+
+.messages__item--visitor,
+.messages__item--typing {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.mic__button {
+  /* Adjust the button styling as needed */
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.mic__image {
+  width: 24px;  /* Adjust the width */
+  height: 24px; /* Adjust the height */
+  /* Add more styling as needed */
+}
+
+
+.messages__item--operator {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: var(--primary);
+    color: white;
+}
+
+/* FOOTER */
+.chatbox__footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 20px;
+    background: var(--secondaryGradient);
+    box-shadow: var(--secondaryBoxShadow);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 20px;
+}
+
+.chatbox__footer input {
+    width: 80%;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 30px;
+    text-align: left;
+}
+
+.chatbox__send--footer {
+    color: white;
+}
+
+.chatbox__button button,
+.chatbox__button button:focus,
+.chatbox__button button:visited {
+    padding: 10px;
+    background: white;
+    border: none;
+    outline: none;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+  </style>
+</head>
+
+<body>
+
+  <!-------------head section-------------------->
+  <section id="nav-bar">
+    <nav class="navbar navbar-expand-lg navbar-light ">
+      <a class="navbar-brand" href="#"><img src="logo.png" alt=""></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="material-symbols-outlined">
+          menu
+        </span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="userprofile.html">PROFILE</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#top">HOME</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#about-us">ABOUT US</a>
+          </li>
+          <!-- Modify the Testimonials Navigation Item to a Dropdown -->
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle" href="#" id="testimonialsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    JOB SECTORS
+  </a>
+  <div class="dropdown-menu" aria-labelledby="testimonialsDropdown">
+    <a class="dropdown-item" href="governhome.html">Government</a>
+    <a class="dropdown-item" href="private_home.html">Private</a>
+   <!-- <a class="dropdown-item" href="index_squ_pyr.html">Self Employment governhome</a>-->
+    <a class="dropdown-item" href="self.html">Self Employment</a>
+    
+  </div>
+</li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="#footer">CONTACT  </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </section>
+  <!--------------------banner seciton----------------------->
+  <section id="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <p class="promo-title">Best Employment platform</p>
+          <p>Unlock Your Future: Where Opportunities Meet Aspirations!</p>
+           <p> Explore, Apply, Succeed!</p>
+<p>Transforming Careers, One Click at a Time!</p>
+
+         
+         
+        </div>
+        <div class="col-md-6 text-center">
+          <img src="https://i.postimg.cc/0NgsZnwX/home2.png" class="image-fluid" alt="">
+        </div>
+      </div>
+    </div>
+    <img src="https://i.postimg.cc/CKJcdLSC/wave1.png" class="bottom-image" alt="">
+  </section>
+  <!-----------services section------------------>
+   <!-- About Us Section -->
+   <section id="about-us">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h2 class="about-title">About Us</h2>
+          <p>Welcome to employment portal, where we redefine the employment landscape by seamlessly integrating opportunities from the government, private, and self-employment sectors. Embark on your career journey with confidence, knowing that your ideal job is just a click away.</p>
+          <ul>
+            <li>Diverse Opportunities:Access a wide range of job listings spanning government, private, and self-employment sectors.</li>
+            <li>User-Friendly Experience:Navigate seamlessly through our portal with an intuitive interface for efficient job searches.</li>
+            <li>Career Support:Benefit from expert advice and resources tailored to enhance your professional development.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Why Choose Us Section -->
+  <section id="why-choose-us">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h2 class="about-title">Why Choose Us</h2>
+          <div class="row">
+            <div class="col-md-4">
+              <div class="feature-box">
+              
+                <h3>Reliability and Trust</h3>
+                <p>Trust us as your reliable partner in the employment journey. With a commitment to transparency, integrity, and reliability, we strive to be the platform you can rely on for accurate information and genuine opportunities.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="feature-box">
+               
+                <h3>User-Centric Experience</h3>
+                <p>Opt for our portal for an intuitive and user-friendly interface, making your job search seamless and efficient. We prioritize your experience, ensuring a hassle-free journey in finding your ideal job.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="feature-box">
+               
+                <h3>Your Success is Our Mission</h3>
+                <p>Choose us because your success is not just a goal; it's our mission. We are dedicated to empowering you with the tools and resources needed to thrive in your career, ensuring that your journey with us is rewarding and impactful.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+   <!-- Chemistry Branches Section -->
+   <section id="chemistry-branches">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h2 class="about-title">JOB SECTORS</h2>
+          <div class="row">
+            <div class="col-md-4">
+              <div class="branch-box">
+                <h3>GOVERNMENT JOBS</h3>
+                <p>
+                    Discover the potential for a fulfilling career in government sectors and pave the way for a content and satisfying life.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="branch-box">
+                <h3>PRIVATE JOBS</h3>
+                <p>
+                    Explore the possibilities in private sectors for a rewarding career and pave the way for a good life.</p>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="branch-box">
+                <h3>SELF-EMPLOYMENT</h3>
+                <p>   Forge your own path in self-employment, unlocking the potential for a fulfilling career and paving the way to a life of satisfaction</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <!----------------social media section--------------------->
+  <section id="social-media">
+    <div class="container text-center">
+      <p>FIND US ON SOCIAL MEDIA</p>
+      <div class="social-icons">
+        
+        <a href=""><img src="https://i.postimg.cc/k5d5Dqf5/instagram-icon.png" alt=""></a>
+        <a href=""><img src="https://i.postimg.cc/QdqMBvPk/twitter-icon.png" alt=""></a>
+        <a href=""><img src="https://i.postimg.cc/VLQsKYPW/whatsapp-icon.png" alt=""></a>
+        <a href=""><img src="https://i.postimg.cc/GmbL1q2B/linkedin-icon.png" alt=""></a>
+        <p style="font-size: small; font-style: italic;"><b>employmentportal</b></p>
+<p style="font-size: small; font-style: italic;"><b>8248548663</b></p>
+
+      </div>
+    </div>
+  </section>
+  <head>
+    <meta charset="UTF-8">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <div class="chatbox">
+        <div class="chatbox__support">
+            <div class="chatbox__header">
+                <div class="chatbox__image--header">
+                    <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+                </div>
+                <div class="chatbox__content--header">
+                    <h4 class="chatbox__heading--header">Chat support</h4>
+                    <p class="chatbox__description--header">Hi. My name is Sam. How can I help you?</p>
+                </div>
+            </div>
+            <div class="chatbox__messages">
+                <div></div>
+            </div>
+            <div class="chatbox__footer">
+                <input type="text" placeholder="Write a message...">
+                <button class="chatbox__send--footer send__button">Send</button>
+                <button class="chatbox__send--footer mic__button">
+                  <img src="mikeee.png" alt="Microphone Icon" class="mic__image">
+              </button>
+            </div>
+        </div>
+        <div class="chatbox__button">
+            <button><img src="botrob.png" width="50" height="45"/></button>
+        </div>
+    </div>
+</div>
+
+<script src="chatapp.js"></script>
+</body>
+  <!-------------------footer section------------------------>
+  <section id="footer">
+    <img src="https://i.postimg.cc/hjWZH3D6/wave2.png" class="footer-img" alt="">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 footer-box">
+          <img src="logo.png" alt="">
+          
+        </div>
+        <div class="col-md-4 footer-box">
+          <p><b>CONTACT US</b></p>
+          <p><span class="material-symbols-outlined">pin_drop</span>Coimbatore Institute Of Technology,Coimbatore</p>
+          <p> <span class="material-symbols-outlined">call</span> +91 8248548663</p>
+          <p>
+            <span class="material-symbols-outlined">mail</span>
+            <a href="mailto:teamemployementportal@gmail.com">teamemploymentportal@gmail.com</a>
+          </p>
+          
+        </div>
+        
+      </div>
+      <hr>
+      <p class="copyright">@2023 Miniproject</p>
+    </div>
+
+  </section>
+  <script>
+    $(document).ready(function () {
+      $('.navbar-nav .nav-link').click(function () {
+        $('.navbar-nav .nav-link').removeClass('active');
+        $(this).addClass('active');
+      });
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,1001 @@
+Department,JobTitle,Salary,Qualification,Company,City,Experience
+Consulting,Management Consultant,1133399,Certified Management Consultant (CMC),Deloitte,Bangalore,16
+Consulting,Strategy Consultant,1102885,Bachelor's Degree in Strategy Consulting,Bain & Company,Jaipur,2
+Consulting,Management Consultant,881804,Bachelor's Degree in Business Consulting,Deloitte,Jaipur,2
+Consulting,Strategy Consultant,1098298,Bachelor's Degree in Strategy Consulting,Bain & Company,Chennai,4
+Consulting,Management Consultant,1063108,Certified Management Consultant (CMC),McKinsey & Company,Hyderabad,4
+Consulting,Management Consultant,1484626,Bachelor's Degree in Business Consulting,Accenture,Chennai,1
+Consulting,Strategy Consultant,1022879,Certified Strategy Consultant,The Boston Consulting Group (BCG),Delhi,5
+Consulting,Management Consultant,1152662,Bachelor's Degree in Business Consulting,Bain & Company,Delhi,6
+Consulting,IT Consultant,1228239,Bachelor's Degree in IT Consulting,Bain & Company,Delhi,12
+Consulting,Management Consultant,1103873,Certified Management Consultant (CMC),The Boston Consulting Group (BCG),Hyderabad,15
+Consulting,Management Consultant,814006,Certified Management Consultant (CMC),Accenture,Delhi,10
+Consulting,Management Consultant,1117122,Bachelor's Degree in Business Consulting,McKinsey & Company,Kolkata,7
+Consulting,Management Consultant,1114744,Certified Management Consultant (CMC),Accenture,Hyderabad,4
+Consulting,Management Consultant,1142492,Certified Management Consultant (CMC),The Boston Consulting Group (BCG),Mumbai,18
+Consulting,Management Consultant,1058764,Bachelor's Degree in Business Consulting,Deloitte,Ahmedabad,2
+Consulting,IT Consultant,1501211,Bachelor's Degree in IT Consulting,Bain & Company,Kolkata,9
+Consulting,Strategy Consultant,1068709,Certified Strategy Consultant,Deloitte,Mumbai,7
+Consulting,Strategy Consultant,1111759,Certified Strategy Consultant,Deloitte,Lucknow,4
+Consulting,Strategy Consultant,1135802,Bachelor's Degree in Strategy Consulting,McKinsey & Company,Lucknow,17
+Consulting,IT Consultant,1500847,Bachelor's Degree in IT Consulting,Accenture,Ahmedabad,11
+Consulting,Management Consultant,1471271,Certified Management Consultant (CMC),McKinsey & Company,Mumbai,10
+Consulting,Strategy Consultant,1067973,Certified Strategy Consultant,Deloitte,Mumbai,11
+Consulting,Management Consultant,965938,Certified Management Consultant (CMC),Bain & Company,Delhi,2
+Consulting,Strategy Consultant,897126,Certified Strategy Consultant,McKinsey & Company,Mumbai,14
+Consulting,Strategy Consultant,880526,Bachelor's Degree in Strategy Consulting,Deloitte,Pune,1
+Consulting,IT Consultant,1442969,Bachelor's Degree in IT Consulting,McKinsey & Company,Ahmedabad,7
+Consulting,Management Consultant,1223572,Bachelor's Degree in Business Consulting,Accenture,Lucknow,14
+Consulting,IT Consultant,1026753,Bachelor's Degree in IT Consulting,McKinsey & Company,Delhi,2
+Consulting,IT Consultant,887353,Certified IT Consultant,Bain & Company,Jaipur,15
+Consulting,IT Consultant,975250,Bachelor's Degree in IT Consulting,The Boston Consulting Group (BCG),Pune,4
+Consulting,IT Consultant,1030239,Bachelor's Degree in IT Consulting,McKinsey & Company,Kolkata,8
+Consulting,IT Consultant,923923,Certified IT Consultant,The Boston Consulting Group (BCG),Chennai,14
+Consulting,Management Consultant,935066,Bachelor's Degree in Business Consulting,Bain & Company,Chennai,15
+Consulting,IT Consultant,985094,Bachelor's Degree in IT Consulting,Deloitte,Bangalore,11
+Consulting,Strategy Consultant,941809,Certified Strategy Consultant,Deloitte,Kolkata,17
+Consulting,Strategy Consultant,740480,Certified Strategy Consultant,Deloitte,Mumbai,13
+Consulting,Strategy Consultant,772618,Certified Strategy Consultant,McKinsey & Company,Kolkata,15
+Consulting,Management Consultant,911109,Certified Management Consultant (CMC),McKinsey & Company,Chennai,8
+Consulting,Management Consultant,1092714,Certified Management Consultant (CMC),Deloitte,Jaipur,0
+Consulting,Management Consultant,907387,Certified Management Consultant (CMC),Bain & Company,Kolkata,2
+Consulting,IT Consultant,940020,Bachelor's Degree in IT Consulting,The Boston Consulting Group (BCG),Pune,5
+Consulting,IT Consultant,821229,Bachelor's Degree in IT Consulting,The Boston Consulting Group (BCG),Lucknow,2
+Consulting,IT Consultant,1200139,Certified IT Consultant,Accenture,Chennai,12
+Consulting,IT Consultant,1101146,Bachelor's Degree in IT Consulting,Deloitte,Bangalore,17
+Consulting,Management Consultant,1190574,Certified Management Consultant (CMC),McKinsey & Company,Ahmedabad,8
+Consulting,Strategy Consultant,1162234,Certified Strategy Consultant,Bain & Company,Bangalore,17
+Consulting,Management Consultant,1367801,Bachelor's Degree in Business Consulting,The Boston Consulting Group (BCG),Mumbai,14
+Consulting,Management Consultant,1286600,Certified Management Consultant (CMC),The Boston Consulting Group (BCG),Lucknow,5
+Consulting,Management Consultant,859790,Bachelor's Degree in Business Consulting,Accenture,Chennai,10
+Consulting,Strategy Consultant,1208475,Bachelor's Degree in Strategy Consulting,The Boston Consulting Group (BCG),Pune,15
+Consulting,IT Consultant,1062265,Certified IT Consultant,McKinsey & Company,Kolkata,6
+Consulting,IT Consultant,1098150,Certified IT Consultant,Bain & Company,Jaipur,2
+Consulting,IT Consultant,1102242,Bachelor's Degree in IT Consulting,Accenture,Kolkata,3
+Consulting,IT Consultant,1263774,Certified IT Consultant,Deloitte,Hyderabad,16
+Consulting,IT Consultant,1058029,Bachelor's Degree in IT Consulting,Accenture,Hyderabad,10
+Consulting,IT Consultant,1257272,Certified IT Consultant,Deloitte,Pune,9
+Consulting,Management Consultant,1153032,Certified Management Consultant (CMC),Deloitte,Chennai,17
+Consulting,IT Consultant,1477849,Certified IT Consultant,Bain & Company,Pune,6
+Consulting,IT Consultant,1185476,Bachelor's Degree in IT Consulting,The Boston Consulting Group (BCG),Delhi,13
+Consulting,IT Consultant,1195889,Bachelor's Degree in IT Consulting,Bain & Company,Bangalore,14
+Consulting,Management Consultant,1380856,Certified Management Consultant (CMC),Bain & Company,Hyderabad,19
+Consulting,Strategy Consultant,1146673,Bachelor's Degree in Strategy Consulting,McKinsey & Company,Hyderabad,15
+Consulting,Strategy Consultant,1274177,Bachelor's Degree in Strategy Consulting,McKinsey & Company,Ahmedabad,4
+Consulting,IT Consultant,1241336,Certified IT Consultant,McKinsey & Company,Bangalore,9
+Consulting,Management Consultant,1295976,Certified Management Consultant (CMC),Accenture,Kolkata,20
+Consulting,Management Consultant,1144624,Certified Management Consultant (CMC),Accenture,Jaipur,6
+Consulting,Management Consultant,870289,Bachelor's Degree in Business Consulting,Accenture,Mumbai,8
+Consulting,Strategy Consultant,898046,Certified Strategy Consultant,Bain & Company,Jaipur,1
+Consulting,Strategy Consultant,1093539,Bachelor's Degree in Strategy Consulting,Bain & Company,Mumbai,14
+Consulting,Management Consultant,906075,Certified Management Consultant (CMC),Accenture,Jaipur,17
+Consulting,Strategy Consultant,926209,Certified Strategy Consultant,Deloitte,Ahmedabad,19
+Consulting,IT Consultant,1274199,Bachelor's Degree in IT Consulting,The Boston Consulting Group (BCG),Mumbai,6
+Consulting,IT Consultant,1435600,Certified IT Consultant,Bain & Company,Chennai,13
+Consulting,Management Consultant,853331,Bachelor's Degree in Business Consulting,The Boston Consulting Group (BCG),Chennai,17
+Consulting,Strategy Consultant,1372803,Bachelor's Degree in Strategy Consulting,McKinsey & Company,Chennai,10
+Consulting,Management Consultant,942241,Bachelor's Degree in Business Consulting,Bain & Company,Hyderabad,3
+Consulting,Strategy Consultant,1027714,Bachelor's Degree in Strategy Consulting,The Boston Consulting Group (BCG),Bangalore,10
+Consulting,Management Consultant,752850,Bachelor's Degree in Business Consulting,The Boston Consulting Group (BCG),Ahmedabad,0
+Consulting,Strategy Consultant,727026,Certified Strategy Consultant,Accenture,Hyderabad,5
+Consulting,Strategy Consultant,1108655,Certified Strategy Consultant,Deloitte,Mumbai,7
+Consulting,Management Consultant,1150272,Certified Management Consultant (CMC),Deloitte,Bangalore,16
+Consulting,IT Consultant,1569582,Certified IT Consultant,Deloitte,Ahmedabad,5
+Consulting,Management Consultant,959658,Certified Management Consultant (CMC),McKinsey & Company,Jaipur,2
+Consulting,Management Consultant,782205,Bachelor's Degree in Business Consulting,Accenture,Delhi,15
+Consulting,Management Consultant,1200054,Bachelor's Degree in Business Consulting,The Boston Consulting Group (BCG),Ahmedabad,16
+Consulting,IT Consultant,1188434,Bachelor's Degree in IT Consulting,Deloitte,Jaipur,0
+Consulting,Strategy Consultant,1220195,Bachelor's Degree in Strategy Consulting,Accenture,Lucknow,6
+Consulting,Management Consultant,848975,Certified Management Consultant (CMC),Deloitte,Jaipur,19
+Consulting,Management Consultant,1312592,Bachelor's Degree in Business Consulting,The Boston Consulting Group (BCG),Lucknow,14
+Consulting,Strategy Consultant,870181,Bachelor's Degree in Strategy Consulting,McKinsey & Company,Bangalore,17
+Consulting,Management Consultant,914787,Certified Management Consultant (CMC),McKinsey & Company,Jaipur,6
+Customer Service,Customer Service Representative,497420,High School Diploma,HGS,Hyderabad,6
+Customer Service,Customer Success Manager,984670,Certification in Customer Success,Sitel,Lucknow,3
+Customer Service,Customer Service Representative,414598,High School Diploma,WNS Global Services,Jaipur,14
+Customer Service,Customer Service Representative,543663,High School Diploma,Teleperformance,Ahmedabad,4
+Customer Service,Customer Success Manager,1147075,Bachelor's Degree in Customer Success,Concentrix,Bangalore,17
+Customer Service,Customer Service Representative,648501,Customer Service Training,Teleperformance,Ahmedabad,3
+Customer Service,Customer Service Representative,606995,Customer Service Training,WNS Global Services,Chennai,19
+Customer Service,Customer Service Representative,683014,Customer Service Training,HGS,Hyderabad,2
+Customer Service,Customer Success Manager,1016676,Bachelor's Degree in Customer Success,Sitel,Jaipur,12
+Customer Service,Customer Success Manager,652890,Bachelor's Degree in Customer Success,Teleperformance,Ahmedabad,14
+Customer Service,Call Center Supervisor,538412,Call Center Management Certification,WNS Global Services,Jaipur,19
+Customer Service,Call Center Supervisor,604100,Call Center Management Certification,Sitel,Lucknow,10
+Customer Service,Customer Success Manager,1126433,Certification in Customer Success,Concentrix,Jaipur,2
+Customer Service,Customer Service Representative,494762,Customer Service Training,HGS,Hyderabad,16
+Customer Service,Customer Success Manager,655593,Bachelor's Degree in Customer Success,WNS Global Services,Jaipur,18
+Customer Service,Customer Success Manager,778785,Certification in Customer Success,Teleperformance,Kolkata,3
+Customer Service,Call Center Supervisor,896537,Bachelor's Degree,Teleperformance,Pune,7
+Customer Service,Customer Service Representative,466587,Customer Service Training,Sitel,Jaipur,18
+Customer Service,Customer Service Representative,675435,Customer Service Training,Sitel,Kolkata,7
+Customer Service,Call Center Supervisor,605695,Bachelor's Degree,WNS Global Services,Delhi,5
+Customer Service,Customer Service Representative,754593,High School Diploma,HGS,Hyderabad,5
+Customer Service,Customer Success Manager,728921,Bachelor's Degree in Customer Success,Sitel,Bangalore,20
+Customer Service,Customer Success Manager,958374,Bachelor's Degree in Customer Success,Sitel,Ahmedabad,9
+Customer Service,Call Center Supervisor,840117,Bachelor's Degree,Teleperformance,Lucknow,5
+Customer Service,Call Center Supervisor,950362,Bachelor's Degree,Concentrix,Kolkata,20
+Customer Service,Customer Success Manager,1198910,Certification in Customer Success,HGS,Ahmedabad,0
+Customer Service,Customer Service Representative,638962,Customer Service Training,WNS Global Services,Lucknow,20
+Customer Service,Call Center Supervisor,814361,Bachelor's Degree,Teleperformance,Jaipur,4
+Customer Service,Customer Success Manager,764214,Bachelor's Degree in Customer Success,Concentrix,Ahmedabad,20
+Customer Service,Call Center Supervisor,647427,Bachelor's Degree,Sitel,Ahmedabad,7
+Customer Service,Customer Service Representative,417900,High School Diploma,HGS,Bangalore,15
+Customer Service,Customer Service Representative,453174,Customer Service Training,Concentrix,Bangalore,0
+Customer Service,Customer Service Representative,474494,Customer Service Training,Concentrix,Jaipur,15
+Customer Service,Customer Success Manager,1158086,Bachelor's Degree in Customer Success,HGS,Jaipur,15
+Customer Service,Call Center Supervisor,550238,Bachelor's Degree,WNS Global Services,Kolkata,16
+Customer Service,Customer Success Manager,1060303,Certification in Customer Success,Teleperformance,Ahmedabad,6
+Customer Service,Call Center Supervisor,835000,Bachelor's Degree,Sitel,Chennai,17
+Customer Service,Call Center Supervisor,875991,Call Center Management Certification,Sitel,Kolkata,3
+Customer Service,Call Center Supervisor,649533,Call Center Management Certification,Sitel,Mumbai,7
+Customer Service,Customer Service Representative,524802,Customer Service Training,Sitel,Chennai,17
+Customer Service,Customer Service Representative,611344,Customer Service Training,Teleperformance,Pune,19
+Customer Service,Call Center Supervisor,934794,Bachelor's Degree,HGS,Delhi,13
+Customer Service,Customer Success Manager,1004113,Certification in Customer Success,HGS,Mumbai,4
+Customer Service,Customer Success Manager,745054,Certification in Customer Success,Teleperformance,Delhi,17
+Customer Service,Customer Service Representative,467385,Customer Service Training,WNS Global Services,Lucknow,5
+Customer Service,Customer Success Manager,994216,Certification in Customer Success,Teleperformance,Pune,1
+Customer Service,Customer Success Manager,896117,Bachelor's Degree in Customer Success,WNS Global Services,Mumbai,0
+Customer Service,Call Center Supervisor,926435,Bachelor's Degree,WNS Global Services,Ahmedabad,20
+Customer Service,Call Center Supervisor,816097,Bachelor's Degree,Sitel,Delhi,20
+Customer Service,Call Center Supervisor,854490,Bachelor's Degree,Teleperformance,Pune,19
+Customer Service,Customer Service Representative,676294,High School Diploma,WNS Global Services,Hyderabad,7
+Customer Service,Customer Service Representative,435422,High School Diploma,Teleperformance,Kolkata,6
+Customer Service,Customer Service Representative,594168,Customer Service Training,Teleperformance,Mumbai,13
+Customer Service,Call Center Supervisor,750263,Call Center Management Certification,Teleperformance,Bangalore,1
+Customer Service,Customer Service Representative,791603,Customer Service Training,HGS,Pune,3
+Customer Service,Call Center Supervisor,841835,Bachelor's Degree,HGS,Jaipur,17
+Customer Service,Customer Service Representative,745075,Customer Service Training,Sitel,Delhi,20
+Customer Service,Customer Service Representative,436305,High School Diploma,WNS Global Services,Bangalore,3
+Customer Service,Call Center Supervisor,556401,Call Center Management Certification,Concentrix,Chennai,19
+Customer Service,Call Center Supervisor,863653,Call Center Management Certification,Teleperformance,Lucknow,11
+Customer Service,Customer Service Representative,412689,High School Diploma,Concentrix,Ahmedabad,12
+Customer Service,Call Center Supervisor,832954,Call Center Management Certification,Sitel,Bangalore,20
+Customer Service,Call Center Supervisor,954026,Call Center Management Certification,WNS Global Services,Jaipur,4
+Customer Service,Call Center Supervisor,704995,Bachelor's Degree,Concentrix,Mumbai,5
+Customer Service,Customer Service Representative,516806,Customer Service Training,Sitel,Ahmedabad,3
+Customer Service,Customer Service Representative,667974,High School Diploma,Teleperformance,Kolkata,10
+Customer Service,Call Center Supervisor,922146,Call Center Management Certification,Teleperformance,Ahmedabad,14
+Customer Service,Customer Success Manager,1034080,Bachelor's Degree in Customer Success,Concentrix,Ahmedabad,9
+Customer Service,Customer Service Representative,672994,High School Diploma,WNS Global Services,Chennai,2
+Customer Service,Customer Service Representative,666872,Customer Service Training,Concentrix,Mumbai,7
+Customer Service,Customer Service Representative,514106,High School Diploma,WNS Global Services,Ahmedabad,16
+Customer Service,Call Center Supervisor,935648,Call Center Management Certification,WNS Global Services,Delhi,1
+Customer Service,Call Center Supervisor,641688,Bachelor's Degree,Teleperformance,Pune,7
+Customer Service,Customer Success Manager,953532,Certification in Customer Success,Teleperformance,Chennai,4
+Customer Service,Customer Success Manager,1083495,Certification in Customer Success,WNS Global Services,Ahmedabad,16
+Customer Service,Customer Success Manager,709620,Certification in Customer Success,HGS,Ahmedabad,17
+Customer Service,Call Center Supervisor,977384,Bachelor's Degree,Concentrix,Ahmedabad,17
+Customer Service,Call Center Supervisor,723820,Call Center Management Certification,HGS,Hyderabad,14
+Customer Service,Call Center Supervisor,754602,Bachelor's Degree,WNS Global Services,Jaipur,2
+Customer Service,Customer Success Manager,861440,Certification in Customer Success,WNS Global Services,Hyderabad,16
+Customer Service,Call Center Supervisor,525344,Bachelor's Degree,WNS Global Services,Delhi,0
+Customer Service,Customer Service Representative,511927,Customer Service Training,Sitel,Bangalore,1
+Customer Service,Customer Success Manager,771111,Certification in Customer Success,Concentrix,Jaipur,12
+Customer Service,Customer Service Representative,475519,Customer Service Training,WNS Global Services,Ahmedabad,1
+Customer Service,Customer Success Manager,915159,Certification in Customer Success,Sitel,Mumbai,15
+Customer Service,Customer Service Representative,746252,Customer Service Training,WNS Global Services,Bangalore,7
+Finance,Financial Advisor,445788,Certified Financial Planner (CFP),SBI,Jaipur,4
+Finance,Investment Analyst,807303,Master of Business Administration (MBA),HDFC Bank,Hyderabad,1
+Finance,Accountant,1371311,Bachelor's Degree in Accounting,Axis Bank,Lucknow,16
+Finance,Accountant,1148479,Certified Public Accountant (CPA),Kotak Mahindra Bank,Delhi,13
+Finance,Financial Analyst,780545,Bachelor's Degree in Finance,Axis Bank,Jaipur,19
+Finance,Financial Analyst,595874,Bachelor's Degree in Finance,SBI,Hyderabad,0
+Finance,Investment Analyst,737853,Master of Business Administration (MBA),ICICI Bank,Pune,17
+Finance,Financial Advisor,479182,Certified Financial Planner (CFP),SBI,Jaipur,2
+Finance,Actuary,1534196,Bachelor's Degree in Actuarial Science,ICICI Bank,Pune,0
+Finance,Actuary,1318186,Bachelor's Degree in Actuarial Science,Kotak Mahindra Bank,Mumbai,3
+Finance,Financial Advisor,338464,Bachelor's Degree in Finance,SBI,Pune,0
+Finance,Financial Advisor,424960,Bachelor's Degree in Finance,Kotak Mahindra Bank,Mumbai,16
+Finance,Actuary,1026215,Associate of Society of Actuaries (ASA),Axis Bank,Hyderabad,7
+Finance,Financial Advisor,579883,Bachelor's Degree in Finance,Axis Bank,Mumbai,19
+Finance,Accountant,980715,Bachelor's Degree in Accounting,HDFC Bank,Jaipur,7
+Finance,Investment Analyst,1158992,Bachelor's Degree in Economics,Axis Bank,Pune,10
+Finance,Financial Advisor,436040,Certified Financial Planner (CFP),Axis Bank,Ahmedabad,19
+Finance,Financial Analyst,433386,Chartered Financial Analyst (CFA),ICICI Bank,Lucknow,14
+Finance,Investment Analyst,839181,Bachelor's Degree in Economics,SBI,Bangalore,19
+Finance,Accountant,1383628,Certified Public Accountant (CPA),HDFC Bank,Jaipur,19
+Finance,Financial Advisor,323072,Certified Financial Planner (CFP),ICICI Bank,Hyderabad,16
+Finance,Accountant,1425863,Certified Public Accountant (CPA),Kotak Mahindra Bank,Lucknow,4
+Finance,Investment Analyst,807157,Bachelor's Degree in Economics,Axis Bank,Delhi,10
+Finance,Financial Analyst,681627,Bachelor's Degree in Finance,Axis Bank,Ahmedabad,18
+Finance,Financial Advisor,473409,Certified Financial Planner (CFP),Axis Bank,Ahmedabad,13
+Finance,Investment Analyst,823110,Bachelor's Degree in Economics,HDFC Bank,Hyderabad,14
+Finance,Financial Analyst,500245,Bachelor's Degree in Finance,ICICI Bank,Pune,14
+Finance,Investment Analyst,806053,Bachelor's Degree in Economics,Axis Bank,Mumbai,9
+Finance,Actuary,1507696,Associate of Society of Actuaries (ASA),HDFC Bank,Hyderabad,16
+Finance,Investment Analyst,1158502,Master of Business Administration (MBA),Kotak Mahindra Bank,Chennai,9
+Finance,Investment Analyst,778823,Master of Business Administration (MBA),ICICI Bank,Pune,19
+Finance,Financial Analyst,420246,Bachelor's Degree in Finance,Axis Bank,Lucknow,1
+Finance,Investment Analyst,976773,Master of Business Administration (MBA),HDFC Bank,Delhi,17
+Finance,Actuary,1919969,Bachelor's Degree in Actuarial Science,ICICI Bank,Lucknow,20
+Finance,Financial Analyst,441247,Bachelor's Degree in Finance,ICICI Bank,Mumbai,6
+Finance,Investment Analyst,983716,Bachelor's Degree in Economics,HDFC Bank,Mumbai,18
+Finance,Financial Analyst,719056,Chartered Financial Analyst (CFA),Axis Bank,Mumbai,8
+Finance,Financial Analyst,761367,Bachelor's Degree in Finance,HDFC Bank,Delhi,16
+Finance,Financial Advisor,449169,Bachelor's Degree in Finance,Axis Bank,Hyderabad,6
+Finance,Investment Analyst,1096486,Bachelor's Degree in Economics,Kotak Mahindra Bank,Delhi,13
+Finance,Financial Analyst,440577,Chartered Financial Analyst (CFA),Kotak Mahindra Bank,Kolkata,0
+Finance,Financial Advisor,419238,Certified Financial Planner (CFP),Axis Bank,Jaipur,7
+Finance,Financial Analyst,715978,Bachelor's Degree in Finance,Axis Bank,Delhi,13
+Finance,Financial Analyst,657550,Bachelor's Degree in Finance,ICICI Bank,Jaipur,14
+Finance,Investment Analyst,1060552,Bachelor's Degree in Economics,ICICI Bank,Chennai,11
+Finance,Financial Analyst,550142,Bachelor's Degree in Finance,SBI,Mumbai,17
+Finance,Investment Analyst,1085352,Master of Business Administration (MBA),Kotak Mahindra Bank,Hyderabad,3
+Finance,Accountant,1190848,Bachelor's Degree in Accounting,Kotak Mahindra Bank,Jaipur,9
+Finance,Investment Analyst,1129277,Master of Business Administration (MBA),Axis Bank,Jaipur,11
+Finance,Financial Advisor,304220,Certified Financial Planner (CFP),Kotak Mahindra Bank,Lucknow,10
+Finance,Accountant,1032136,Bachelor's Degree in Accounting,Axis Bank,Bangalore,5
+Finance,Investment Analyst,939175,Bachelor's Degree in Economics,HDFC Bank,Delhi,11
+Finance,Financial Advisor,465569,Bachelor's Degree in Finance,Axis Bank,Ahmedabad,4
+Finance,Investment Analyst,732138,Master of Business Administration (MBA),Kotak Mahindra Bank,Kolkata,19
+Finance,Actuary,1123878,Associate of Society of Actuaries (ASA),SBI,Lucknow,4
+Finance,Accountant,1230485,Bachelor's Degree in Accounting,SBI,Jaipur,16
+Finance,Financial Advisor,520203,Certified Financial Planner (CFP),Axis Bank,Ahmedabad,18
+Finance,Actuary,1897120,Associate of Society of Actuaries (ASA),Kotak Mahindra Bank,Mumbai,7
+Finance,Financial Analyst,486891,Bachelor's Degree in Finance,ICICI Bank,Chennai,17
+Finance,Accountant,1164551,Certified Public Accountant (CPA),HDFC Bank,Bangalore,4
+Finance,Accountant,943536,Certified Public Accountant (CPA),Axis Bank,Delhi,4
+Finance,Accountant,1266743,Bachelor's Degree in Accounting,ICICI Bank,Mumbai,16
+Finance,Actuary,1792876,Associate of Society of Actuaries (ASA),ICICI Bank,Jaipur,11
+Finance,Financial Advisor,554566,Certified Financial Planner (CFP),HDFC Bank,Jaipur,11
+Finance,Financial Analyst,703382,Chartered Financial Analyst (CFA),SBI,Chennai,6
+Finance,Financial Analyst,670168,Chartered Financial Analyst (CFA),Axis Bank,Ahmedabad,16
+Finance,Financial Advisor,468531,Bachelor's Degree in Finance,HDFC Bank,Delhi,16
+Finance,Actuary,1381172,Associate of Society of Actuaries (ASA),ICICI Bank,Mumbai,15
+Finance,Actuary,1419051,Associate of Society of Actuaries (ASA),Axis Bank,Hyderabad,19
+Finance,Accountant,1466739,Certified Public Accountant (CPA),Axis Bank,Chennai,10
+Finance,Accountant,1425498,Bachelor's Degree in Accounting,ICICI Bank,Pune,2
+Finance,Investment Analyst,997824,Master of Business Administration (MBA),SBI,Lucknow,11
+Finance,Accountant,1199822,Bachelor's Degree in Accounting,Axis Bank,Chennai,4
+Finance,Actuary,1806747,Bachelor's Degree in Actuarial Science,SBI,Ahmedabad,8
+Healthcare,Medical Sales Representative,770221,Sales Training Certification,Apollo Hospitals,Jaipur,5
+Healthcare,Medical Sales Representative,733407,Bachelor's Degree in Life Sciences,Columbia Asia Hospitals,Mumbai,7
+Healthcare,Medical Sales Representative,596121,Bachelor's Degree in Life Sciences,Manipal Hospitals,Lucknow,1
+Healthcare,Medical Laboratory Technician,429601,Associate Degree in Medical Laboratory Technology,Max Healthcare,Delhi,17
+Healthcare,Registered Nurse,1759182,Bachelor of Science in Nursing (BSN),Manipal Hospitals,Pune,17
+Healthcare,Healthcare Administrator,656108,Healthcare Administration Certification,Columbia Asia Hospitals,Bangalore,3
+Healthcare,Pharmacist,480450,Pharmacy License,Max Healthcare,Mumbai,6
+Healthcare,Registered Nurse,1282504,Bachelor of Science in Nursing (BSN),Manipal Hospitals,Lucknow,4
+Healthcare,Medical Sales Representative,656349,Sales Training Certification,Columbia Asia Hospitals,Lucknow,0
+Healthcare,Registered Nurse,1779903,Registered Nurse (RN) License,Max Healthcare,Delhi,9
+Healthcare,Medical Laboratory Technician,567412,Certification as a Medical Laboratory Technician,Columbia Asia Hospitals,Mumbai,6
+Healthcare,Healthcare Administrator,937032,Master of Health Administration (MHA),Apollo Hospitals,Ahmedabad,8
+Healthcare,Medical Sales Representative,791537,Sales Training Certification,Columbia Asia Hospitals,Chennai,8
+Healthcare,Registered Nurse,1647883,Bachelor of Science in Nursing (BSN),Columbia Asia Hospitals,Hyderabad,16
+Healthcare,Medical Sales Representative,744009,Bachelor's Degree in Life Sciences,Max Healthcare,Ahmedabad,4
+Healthcare,Medical Laboratory Technician,515284,Certification as a Medical Laboratory Technician,Max Healthcare,Mumbai,3
+Healthcare,Registered Nurse,1510787,Bachelor of Science in Nursing (BSN),Max Healthcare,Ahmedabad,2
+Healthcare,Healthcare Administrator,956537,Master of Health Administration (MHA),Manipal Hospitals,Lucknow,19
+Healthcare,Medical Sales Representative,662244,Sales Training Certification,Apollo Hospitals,Delhi,9
+Healthcare,Medical Laboratory Technician,437125,Associate Degree in Medical Laboratory Technology,Columbia Asia Hospitals,Jaipur,15
+Healthcare,Medical Sales Representative,532523,Bachelor's Degree in Life Sciences,Max Healthcare,Lucknow,20
+Healthcare,Pharmacist,426511,Doctor of Pharmacy (Pharm.D.),Columbia Asia Hospitals,Kolkata,0
+Healthcare,Medical Sales Representative,737997,Bachelor's Degree in Life Sciences,Max Healthcare,Hyderabad,4
+Healthcare,Medical Laboratory Technician,493425,Certification as a Medical Laboratory Technician,Apollo Hospitals,Bangalore,9
+Healthcare,Pharmacist,373233,Pharmacy License,Max Healthcare,Kolkata,2
+Healthcare,Medical Sales Representative,606381,Sales Training Certification,Max Healthcare,Bangalore,18
+Healthcare,Medical Laboratory Technician,541687,Certification as a Medical Laboratory Technician,Columbia Asia Hospitals,Jaipur,15
+Healthcare,Medical Sales Representative,739461,Sales Training Certification,Max Healthcare,Lucknow,4
+Healthcare,Medical Sales Representative,618333,Bachelor's Degree in Life Sciences,Columbia Asia Hospitals,Jaipur,13
+Healthcare,Healthcare Administrator,1192488,Healthcare Administration Certification,Max Healthcare,Lucknow,5
+Healthcare,Healthcare Administrator,988724,Master of Health Administration (MHA),Apollo Hospitals,Hyderabad,6
+Healthcare,Registered Nurse,1252607,Registered Nurse (RN) License,Columbia Asia Hospitals,Hyderabad,20
+Healthcare,Medical Sales Representative,613619,Sales Training Certification,Manipal Hospitals,Bangalore,11
+Healthcare,Healthcare Administrator,1140576,Healthcare Administration Certification,Fortis Healthcare,Kolkata,17
+Healthcare,Medical Sales Representative,583969,Sales Training Certification,Columbia Asia Hospitals,Mumbai,11
+Healthcare,Medical Laboratory Technician,524634,Associate Degree in Medical Laboratory Technology,Fortis Healthcare,Chennai,13
+Healthcare,Medical Laboratory Technician,471460,Certification as a Medical Laboratory Technician,Fortis Healthcare,Pune,9
+Healthcare,Pharmacist,240813,Pharmacy License,Max Healthcare,Kolkata,14
+Healthcare,Healthcare Administrator,700331,Master of Health Administration (MHA),Manipal Hospitals,Kolkata,14
+Healthcare,Registered Nurse,1730326,Bachelor of Science in Nursing (BSN),Manipal Hospitals,Kolkata,3
+Healthcare,Medical Laboratory Technician,506810,Associate Degree in Medical Laboratory Technology,Columbia Asia Hospitals,Lucknow,20
+Healthcare,Medical Sales Representative,724968,Sales Training Certification,Manipal Hospitals,Jaipur,4
+Healthcare,Medical Sales Representative,746962,Bachelor's Degree in Life Sciences,Columbia Asia Hospitals,Pune,1
+Healthcare,Registered Nurse,1323856,Bachelor of Science in Nursing (BSN),Columbia Asia Hospitals,Hyderabad,6
+Healthcare,Medical Sales Representative,732433,Bachelor's Degree in Life Sciences,Fortis Healthcare,Pune,17
+Healthcare,Registered Nurse,1331403,Bachelor of Science in Nursing (BSN),Columbia Asia Hospitals,Mumbai,14
+Healthcare,Healthcare Administrator,1160318,Master of Health Administration (MHA),Columbia Asia Hospitals,Delhi,5
+Healthcare,Registered Nurse,1044875,Registered Nurse (RN) License,Manipal Hospitals,Chennai,20
+Healthcare,Registered Nurse,1255360,Bachelor of Science in Nursing (BSN),Columbia Asia Hospitals,Pune,15
+Healthcare,Pharmacist,327091,Pharmacy License,Columbia Asia Hospitals,Chennai,2
+Healthcare,Pharmacist,351927,Doctor of Pharmacy (Pharm.D.),Manipal Hospitals,Hyderabad,14
+Healthcare,Pharmacist,281624,Pharmacy License,Apollo Hospitals,Chennai,6
+Healthcare,Registered Nurse,1441047,Registered Nurse (RN) License,Columbia Asia Hospitals,Hyderabad,15
+Healthcare,Healthcare Administrator,760031,Master of Health Administration (MHA),Columbia Asia Hospitals,Ahmedabad,10
+Healthcare,Medical Sales Representative,799434,Bachelor's Degree in Life Sciences,Apollo Hospitals,Jaipur,20
+Healthcare,Pharmacist,479099,Pharmacy License,Apollo Hospitals,Mumbai,15
+Healthcare,Medical Laboratory Technician,540944,Associate Degree in Medical Laboratory Technology,Columbia Asia Hospitals,Jaipur,16
+Healthcare,Healthcare Administrator,696926,Master of Health Administration (MHA),Fortis Healthcare,Jaipur,8
+Healthcare,Registered Nurse,1333920,Registered Nurse (RN) License,Fortis Healthcare,Bangalore,2
+Healthcare,Healthcare Administrator,836090,Healthcare Administration Certification,Max Healthcare,Chennai,7
+Healthcare,Registered Nurse,1616728,Bachelor of Science in Nursing (BSN),Apollo Hospitals,Ahmedabad,17
+Healthcare,Healthcare Administrator,775534,Master of Health Administration (MHA),Fortis Healthcare,Chennai,12
+Healthcare,Healthcare Administrator,965001,Healthcare Administration Certification,Columbia Asia Hospitals,Ahmedabad,3
+Healthcare,Medical Laboratory Technician,567891,Certification as a Medical Laboratory Technician,Columbia Asia Hospitals,Lucknow,8
+Healthcare,Medical Laboratory Technician,512287,Certification as a Medical Laboratory Technician,Manipal Hospitals,Chennai,10
+Healthcare,Medical Sales Representative,586227,Bachelor's Degree in Life Sciences,Fortis Healthcare,Chennai,17
+Healthcare,Pharmacist,497347,Doctor of Pharmacy (Pharm.D.),Columbia Asia Hospitals,Jaipur,2
+Healthcare,Healthcare Administrator,1008529,Master of Health Administration (MHA),Manipal Hospitals,Ahmedabad,19
+Healthcare,Healthcare Administrator,853823,Healthcare Administration Certification,Columbia Asia Hospitals,Bangalore,18
+Healthcare,Healthcare Administrator,880187,Healthcare Administration Certification,Columbia Asia Hospitals,Bangalore,13
+Healthcare,Medical Sales Representative,609538,Bachelor's Degree in Life Sciences,Fortis Healthcare,Bangalore,4
+Healthcare,Healthcare Administrator,657132,Healthcare Administration Certification,Manipal Hospitals,Hyderabad,10
+Healthcare,Healthcare Administrator,1166881,Healthcare Administration Certification,Fortis Healthcare,Bangalore,4
+Healthcare,Medical Laboratory Technician,405570,Certification as a Medical Laboratory Technician,Columbia Asia Hospitals,Bangalore,2
+Healthcare,Healthcare Administrator,1156788,Master of Health Administration (MHA),Fortis Healthcare,Mumbai,2
+Healthcare,Pharmacist,261436,Pharmacy License,Fortis Healthcare,Kolkata,15
+Healthcare,Registered Nurse,1279223,Bachelor of Science in Nursing (BSN),Columbia Asia Hospitals,Jaipur,10
+Healthcare,Pharmacist,282235,Doctor of Pharmacy (Pharm.D.),Columbia Asia Hospitals,Ahmedabad,5
+Healthcare,Medical Laboratory Technician,532223,Associate Degree in Medical Laboratory Technology,Manipal Hospitals,Mumbai,4
+Healthcare,Pharmacist,259186,Pharmacy License,Fortis Healthcare,Hyderabad,12
+Healthcare,Medical Laboratory Technician,438935,Associate Degree in Medical Laboratory Technology,Fortis Healthcare,Bangalore,0
+Healthcare,Registered Nurse,1061799,Registered Nurse (RN) License,Fortis Healthcare,Mumbai,8
+Healthcare,Registered Nurse,1069622,Registered Nurse (RN) License,Fortis Healthcare,Ahmedabad,7
+Healthcare,Healthcare Administrator,754906,Healthcare Administration Certification,Max Healthcare,Chennai,11
+Healthcare,Registered Nurse,1363868,Registered Nurse (RN) License,Columbia Asia Hospitals,Jaipur,12
+Healthcare,Pharmacist,415262,Doctor of Pharmacy (Pharm.D.),Apollo Hospitals,Hyderabad,2
+Healthcare,Registered Nurse,1309363,Registered Nurse (RN) License,Manipal Hospitals,Kolkata,2
+Healthcare,Healthcare Administrator,1165569,Healthcare Administration Certification,Columbia Asia Hospitals,Mumbai,16
+Healthcare,Registered Nurse,1467093,Registered Nurse (RN) License,Apollo Hospitals,Chennai,19
+Healthcare,Pharmacist,467681,Pharmacy License,Apollo Hospitals,Kolkata,14
+Healthcare,Healthcare Administrator,772074,Master of Health Administration (MHA),Apollo Hospitals,Mumbai,10
+Healthcare,Pharmacist,358742,Doctor of Pharmacy (Pharm.D.),Columbia Asia Hospitals,Lucknow,1
+Healthcare,Registered Nurse,1312813,Registered Nurse (RN) License,Apollo Hospitals,Bangalore,12
+Healthcare,Pharmacist,258930,Pharmacy License,Apollo Hospitals,Jaipur,10
+Healthcare,Healthcare Administrator,734006,Healthcare Administration Certification,Apollo Hospitals,Bangalore,7
+Healthcare,Medical Sales Representative,718208,Bachelor's Degree in Life Sciences,Manipal Hospitals,Hyderabad,1
+Healthcare,Medical Laboratory Technician,467842,Associate Degree in Medical Laboratory Technology,Manipal Hospitals,Bangalore,8
+Healthcare,Healthcare Administrator,1073310,Healthcare Administration Certification,Max Healthcare,Mumbai,10
+Healthcare,Medical Sales Representative,708983,Bachelor's Degree in Life Sciences,Fortis Healthcare,Kolkata,6
+Healthcare,Medical Sales Representative,545898,Bachelor's Degree in Life Sciences,Apollo Hospitals,Bangalore,19
+Healthcare,Registered Nurse,1723082,Bachelor of Science in Nursing (BSN),Fortis Healthcare,Kolkata,16
+Healthcare,Healthcare Administrator,815852,Healthcare Administration Certification,Columbia Asia Hospitals,Hyderabad,18
+Healthcare,Medical Sales Representative,627602,Bachelor's Degree in Life Sciences,Max Healthcare,Delhi,19
+Human Resources,HR Manager,726722,Senior Professional in Human Resources (SPHR),Ma Foi Randstad,Chennai,20
+Human Resources,Training and Development Specialist,960515,Bachelor's Degree in Training and Development,TeamLease,Hyderabad,0
+Human Resources,Training and Development Specialist,990018,Certified Professional in Learning and Performance (CPLP),PeopleStrong,Lucknow,17
+Human Resources,HR Manager,1176555,Senior Professional in Human Resources (SPHR),PeopleStrong,Delhi,17
+Human Resources,HR Manager,662775,Bachelor's Degree in Human Resources,PeopleStrong,Ahmedabad,20
+Human Resources,Recruiter,779047,Certified Recruiter,PeopleStrong,Pune,7
+Human Resources,HR Manager,1161904,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Hyderabad,13
+Human Resources,Compensation Analyst,685123,Certified Compensation Professional (CCP),Ma Foi Randstad,Lucknow,4
+Human Resources,Recruiter,983106,Certified Recruiter,TeamLease,Bangalore,20
+Human Resources,Compensation Analyst,1032664,Certified Compensation Professional (CCP),PeopleStrong,Chennai,2
+Human Resources,Compensation Analyst,1157538,Certified Compensation Professional (CCP),Ikya Human Capital Solutions,Jaipur,14
+Human Resources,HR Manager,1018928,Bachelor's Degree in Human Resources,Ma Foi Randstad,Chennai,18
+Human Resources,HR Manager,841101,Senior Professional in Human Resources (SPHR),Quess Corp,Ahmedabad,13
+Human Resources,HR Manager,605127,Bachelor's Degree in Human Resources,PeopleStrong,Mumbai,18
+Human Resources,Compensation Analyst,919040,Certified Compensation Professional (CCP),Ma Foi Randstad,Hyderabad,5
+Human Resources,Compensation Analyst,634609,Certified Compensation Professional (CCP),PeopleStrong,Delhi,9
+Human Resources,HR Manager,917578,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Lucknow,13
+Human Resources,HR Manager,929702,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Bangalore,2
+Human Resources,Training and Development Specialist,1007399,Bachelor's Degree in Training and Development,Ikya Human Capital Solutions,Ahmedabad,8
+Human Resources,Training and Development Specialist,1005382,Certified Professional in Learning and Performance (CPLP),Ikya Human Capital Solutions,Kolkata,6
+Human Resources,Training and Development Specialist,962713,Certified Professional in Learning and Performance (CPLP),PeopleStrong,Kolkata,13
+Human Resources,Recruiter,683914,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Bangalore,0
+Human Resources,Training and Development Specialist,1032699,Certified Professional in Learning and Performance (CPLP),Ikya Human Capital Solutions,Bangalore,6
+Human Resources,Compensation Analyst,874303,Bachelor's Degree in Compensation and Benefits,PeopleStrong,Chennai,19
+Human Resources,Recruiter,506842,Bachelor's Degree in Human Resources,Ma Foi Randstad,Lucknow,10
+Human Resources,Compensation Analyst,1029708,Bachelor's Degree in Compensation and Benefits,Ma Foi Randstad,Kolkata,3
+Human Resources,Compensation Analyst,773764,Bachelor's Degree in Compensation and Benefits,PeopleStrong,Chennai,11
+Human Resources,Recruiter,600517,Bachelor's Degree in Human Resources,Ma Foi Randstad,Lucknow,13
+Human Resources,Recruiter,808544,Certified Recruiter,Quess Corp,Pune,18
+Human Resources,HR Manager,1188909,Senior Professional in Human Resources (SPHR),TeamLease,Lucknow,12
+Human Resources,Compensation Analyst,789440,Bachelor's Degree in Compensation and Benefits,Quess Corp,Bangalore,0
+Human Resources,Recruiter,548458,Certified Recruiter,PeopleStrong,Kolkata,7
+Human Resources,Recruiter,576640,Certified Recruiter,PeopleStrong,Kolkata,20
+Human Resources,Training and Development Specialist,1026680,Certified Professional in Learning and Performance (CPLP),Ma Foi Randstad,Ahmedabad,12
+Human Resources,HR Manager,1098562,Bachelor's Degree in Human Resources,PeopleStrong,Delhi,17
+Human Resources,Compensation Analyst,918371,Bachelor's Degree in Compensation and Benefits,Ma Foi Randstad,Lucknow,13
+Human Resources,Recruiter,520199,Certified Recruiter,Ma Foi Randstad,Kolkata,7
+Human Resources,Training and Development Specialist,581826,Bachelor's Degree in Training and Development,TeamLease,Mumbai,6
+Human Resources,HR Manager,1118431,Senior Professional in Human Resources (SPHR),Quess Corp,Kolkata,15
+Human Resources,Compensation Analyst,625986,Bachelor's Degree in Compensation and Benefits,Quess Corp,Delhi,15
+Human Resources,Recruiter,610492,Bachelor's Degree in Human Resources,TeamLease,Delhi,13
+Human Resources,Compensation Analyst,812322,Certified Compensation Professional (CCP),Quess Corp,Bangalore,17
+Human Resources,Recruiter,755900,Certified Recruiter,Quess Corp,Kolkata,7
+Human Resources,Training and Development Specialist,603809,Certified Professional in Learning and Performance (CPLP),PeopleStrong,Bangalore,17
+Human Resources,Training and Development Specialist,1061400,Certified Professional in Learning and Performance (CPLP),Quess Corp,Ahmedabad,5
+Human Resources,Recruiter,700395,Certified Recruiter,TeamLease,Bangalore,13
+Human Resources,Recruiter,615800,Certified Recruiter,Ikya Human Capital Solutions,Hyderabad,3
+Human Resources,Training and Development Specialist,885308,Certified Professional in Learning and Performance (CPLP),Ma Foi Randstad,Kolkata,2
+Human Resources,Recruiter,598930,Certified Recruiter,Ma Foi Randstad,Kolkata,2
+Human Resources,HR Manager,808061,Senior Professional in Human Resources (SPHR),Ma Foi Randstad,Delhi,11
+Human Resources,HR Manager,1155096,Bachelor's Degree in Human Resources,Quess Corp,Mumbai,16
+Human Resources,HR Manager,974469,Senior Professional in Human Resources (SPHR),PeopleStrong,Delhi,3
+Human Resources,Training and Development Specialist,569487,Bachelor's Degree in Training and Development,Ikya Human Capital Solutions,Kolkata,13
+Human Resources,Recruiter,799629,Bachelor's Degree in Human Resources,PeopleStrong,Jaipur,12
+Human Resources,Recruiter,932571,Certified Recruiter,TeamLease,Hyderabad,1
+Human Resources,HR Manager,814859,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Kolkata,4
+Human Resources,Training and Development Specialist,1014806,Certified Professional in Learning and Performance (CPLP),Ikya Human Capital Solutions,Jaipur,4
+Human Resources,Training and Development Specialist,1064641,Certified Professional in Learning and Performance (CPLP),Quess Corp,Ahmedabad,12
+Human Resources,Compensation Analyst,954204,Bachelor's Degree in Compensation and Benefits,TeamLease,Jaipur,5
+Human Resources,Recruiter,633570,Certified Recruiter,PeopleStrong,Mumbai,3
+Human Resources,Recruiter,681916,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Lucknow,15
+Human Resources,Recruiter,689133,Certified Recruiter,Ma Foi Randstad,Chennai,1
+Human Resources,Recruiter,955521,Certified Recruiter,Ma Foi Randstad,Hyderabad,15
+Human Resources,HR Manager,931612,Senior Professional in Human Resources (SPHR),Ma Foi Randstad,Chennai,14
+Human Resources,Recruiter,788325,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Hyderabad,18
+Human Resources,HR Manager,1004966,Bachelor's Degree in Human Resources,TeamLease,Chennai,11
+Human Resources,Recruiter,895732,Bachelor's Degree in Human Resources,Ma Foi Randstad,Bangalore,5
+Human Resources,Recruiter,699453,Bachelor's Degree in Human Resources,Ma Foi Randstad,Chennai,17
+Human Resources,HR Manager,888422,Bachelor's Degree in Human Resources,PeopleStrong,Bangalore,4
+Human Resources,Recruiter,626999,Certified Recruiter,Ma Foi Randstad,Chennai,0
+Human Resources,Training and Development Specialist,1073810,Bachelor's Degree in Training and Development,TeamLease,Mumbai,7
+Human Resources,Compensation Analyst,1027831,Certified Compensation Professional (CCP),PeopleStrong,Mumbai,10
+Human Resources,Compensation Analyst,1128548,Certified Compensation Professional (CCP),TeamLease,Lucknow,10
+Human Resources,Training and Development Specialist,847223,Bachelor's Degree in Training and Development,Quess Corp,Lucknow,6
+Human Resources,HR Manager,852948,Bachelor's Degree in Human Resources,Ikya Human Capital Solutions,Ahmedabad,16
+Human Resources,Training and Development Specialist,691169,Bachelor's Degree in Training and Development,PeopleStrong,Chennai,7
+Human Resources,Training and Development Specialist,825271,Certified Professional in Learning and Performance (CPLP),Ma Foi Randstad,Chennai,16
+Human Resources,Compensation Analyst,1039313,Bachelor's Degree in Compensation and Benefits,Ikya Human Capital Solutions,Mumbai,20
+Human Resources,Recruiter,723546,Bachelor's Degree in Human Resources,PeopleStrong,Chennai,0
+Human Resources,Recruiter,968784,Certified Recruiter,Quess Corp,Kolkata,2
+Human Resources,Recruiter,757800,Certified Recruiter,Ikya Human Capital Solutions,Mumbai,1
+Human Resources,Compensation Analyst,701335,Certified Compensation Professional (CCP),Ma Foi Randstad,Mumbai,3
+Human Resources,HR Manager,606696,Bachelor's Degree in Human Resources,TeamLease,Jaipur,4
+Human Resources,Recruiter,856184,Certified Recruiter,Ma Foi Randstad,Mumbai,6
+Human Resources,Recruiter,715047,Certified Recruiter,Ma Foi Randstad,Chennai,4
+Information Technology,Data Analyst,1777088,Bachelor's Degree in Data Science,HCL,Kolkata,9
+Information Technology,Data Analyst,1068394,Data Analyst Certification,Infosys,Jaipur,1
+Information Technology,Network Administrator,506570,Cisco Certified Network Associate (CCNA),HCL,Jaipur,17
+Information Technology,Network Administrator,963273,Cisco Certified Network Associate (CCNA),Wipro,Bangalore,20
+Information Technology,Data Analyst,1712870,Bachelor's Degree in Data Science,Wipro,Bangalore,0
+Information Technology,Data Analyst,1096525,Data Analyst Certification,Infosys,Chennai,16
+Information Technology,Data Analyst,1594188,Bachelor's Degree in Data Science,HCL,Kolkata,6
+Information Technology,IT Consultant,860286,Bachelor's Degree in IT Management,Wipro,Chennai,15
+Information Technology,IT Consultant,827093,Certified Information Systems Security Professional (CISSP),Wipro,Jaipur,7
+Information Technology,Web Developer,770328,Diploma in Web Development,Infosys,Bangalore,12
+Information Technology,Data Analyst,1167009,Bachelor's Degree in Data Science,Wipro,Lucknow,18
+Information Technology,IT Consultant,1318741,Certified Information Systems Security Professional (CISSP),HCL,Lucknow,8
+Information Technology,Network Administrator,863980,Cisco Certified Network Associate (CCNA),HCL,Kolkata,13
+Information Technology,Software Engineer,875720,Ph.D.,Tech Mahindra,Mumbai,11
+Information Technology,Software Engineer,1344452,Bachelor's Degree,Wipro,Mumbai,17
+Information Technology,Network Administrator,630686,Cisco Certified Network Associate (CCNA),Tech Mahindra,Lucknow,19
+Information Technology,Network Administrator,542643,Bachelor's Degree in Networking,TCS,Lucknow,18
+Information Technology,Software Engineer,1498567,Bachelor's Degree,Infosys,Mumbai,7
+Information Technology,IT Consultant,1151450,Certified Information Systems Security Professional (CISSP),Tech Mahindra,Delhi,9
+Information Technology,Web Developer,553868,Bachelor's Degree,Tech Mahindra,Delhi,18
+Information Technology,Web Developer,1061588,Diploma in Web Development,HCL,Lucknow,12
+Information Technology,Software Engineer,1031048,Bachelor's Degree,TCS,Mumbai,6
+Information Technology,Software Engineer,947811,Bachelor's Degree,Wipro,Chennai,3
+Information Technology,IT Consultant,1389972,Bachelor's Degree in IT Management,Wipro,Hyderabad,18
+Information Technology,Network Administrator,667562,Bachelor's Degree in Networking,HCL,Pune,15
+Information Technology,Data Analyst,1000228,Bachelor's Degree in Data Science,TCS,Ahmedabad,18
+Information Technology,Software Engineer,903363,Bachelor's Degree,HCL,Ahmedabad,1
+Information Technology,IT Consultant,855141,Certified Information Systems Security Professional (CISSP),Wipro,Pune,15
+Information Technology,Network Administrator,621452,Cisco Certified Network Associate (CCNA),TCS,Hyderabad,17
+Information Technology,Web Developer,1015138,Diploma in Web Development,TCS,Bangalore,18
+Information Technology,Data Analyst,1055849,Data Analyst Certification,Tech Mahindra,Hyderabad,13
+Information Technology,Network Administrator,523934,Bachelor's Degree in Networking,Tech Mahindra,Hyderabad,5
+Information Technology,Network Administrator,749693,Bachelor's Degree in Networking,Wipro,Delhi,16
+Information Technology,Web Developer,1021153,Diploma in Web Development,HCL,Ahmedabad,0
+Information Technology,Web Developer,815208,Diploma in Web Development,Tech Mahindra,Delhi,5
+Information Technology,IT Consultant,907999,Certified Information Systems Security Professional (CISSP),TCS,Kolkata,12
+Information Technology,Network Administrator,939750,Cisco Certified Network Associate (CCNA),Infosys,Delhi,16
+Information Technology,IT Consultant,813174,Bachelor's Degree in IT Management,Wipro,Mumbai,2
+Information Technology,Data Analyst,1380983,Data Analyst Certification,TCS,Kolkata,17
+Information Technology,IT Consultant,1466105,Certified Information Systems Security Professional (CISSP),Infosys,Kolkata,18
+Information Technology,Software Engineer,1027477,Bachelor's Degree,Wipro,Delhi,8
+Information Technology,IT Consultant,893561,Certified Information Systems Security Professional (CISSP),Infosys,Pune,17
+Information Technology,Data Analyst,1342300,Bachelor's Degree in Data Science,TCS,Lucknow,10
+Information Technology,Web Developer,1016530,Bachelor's Degree,TCS,Delhi,7
+Information Technology,Data Analyst,1797012,Data Analyst Certification,TCS,Ahmedabad,12
+Information Technology,Software Engineer,1013795,Master's Degree,TCS,Kolkata,9
+Information Technology,Software Engineer,1428970,Bachelor's Degree,HCL,Mumbai,17
+Information Technology,IT Consultant,918847,Bachelor's Degree in IT Management,Wipro,Pune,17
+Information Technology,Data Analyst,1769456,Data Analyst Certification,Infosys,Jaipur,2
+Information Technology,Data Analyst,1560473,Bachelor's Degree in Data Science,TCS,Ahmedabad,15
+Information Technology,IT Consultant,1183011,Certified Information Systems Security Professional (CISSP),Wipro,Bangalore,11
+Information Technology,Web Developer,934648,Diploma in Web Development,TCS,Kolkata,4
+Information Technology,Software Engineer,1155051,Ph.D.,HCL,Ahmedabad,13
+Information Technology,Data Analyst,1776988,Bachelor's Degree in Data Science,Tech Mahindra,Pune,19
+Information Technology,Data Analyst,1798589,Data Analyst Certification,Infosys,Bangalore,14
+Information Technology,Network Administrator,664515,Bachelor's Degree in Networking,HCL,Pune,13
+Information Technology,IT Consultant,979348,Bachelor's Degree in IT Management,TCS,Jaipur,10
+Information Technology,Network Administrator,731869,Bachelor's Degree in Networking,Wipro,Kolkata,14
+Information Technology,Web Developer,973648,Bachelor's Degree,HCL,Lucknow,3
+Information Technology,Network Administrator,640152,Cisco Certified Network Associate (CCNA),Wipro,Ahmedabad,0
+Information Technology,Network Administrator,597317,Cisco Certified Network Associate (CCNA),Tech Mahindra,Bangalore,7
+Information Technology,Software Engineer,985100,Ph.D.,TCS,Chennai,17
+Information Technology,IT Consultant,900199,Bachelor's Degree in IT Management,Tech Mahindra,Hyderabad,5
+Information Technology,Data Analyst,1750776,Bachelor's Degree in Data Science,Wipro,Hyderabad,15
+Information Technology,Web Developer,715832,Diploma in Web Development,Tech Mahindra,Lucknow,7
+Information Technology,Network Administrator,501105,Cisco Certified Network Associate (CCNA),Wipro,Bangalore,12
+Information Technology,IT Consultant,974232,Certified Information Systems Security Professional (CISSP),Infosys,Lucknow,20
+Information Technology,Network Administrator,502120,Bachelor's Degree in Networking,HCL,Lucknow,4
+Manufacturing and Engineering,Process Engineer,821703,Process Engineering Certification,Bharat Heavy Electricals Limited (BHEL),Ahmedabad,12
+Manufacturing and Engineering,Production Manager,882293,Production Management Certification,Mahindra & Mahindra,Pune,13
+Manufacturing and Engineering,Electrical Engineer,1344352,Bachelor's Degree in Electrical Engineering,Bharat Heavy Electricals Limited (BHEL),Delhi,8
+Manufacturing and Engineering,Electrical Engineer,997746,Bachelor's Degree in Electrical Engineering,Maruti Suzuki,Bangalore,10
+Manufacturing and Engineering,Mechanical Engineer,1139701,Professional Engineer (PE) License,Larsen & Toubro,Pune,16
+Manufacturing and Engineering,Quality Control Engineer,1081825,Bachelor's Degree in Quality Control,Bharat Heavy Electricals Limited (BHEL),Bangalore,19
+Manufacturing and Engineering,Quality Control Engineer,802373,Bachelor's Degree in Quality Control,Larsen & Toubro,Bangalore,4
+Manufacturing and Engineering,Mechanical Engineer,1047254,Bachelor's Degree in Mechanical Engineering,Maruti Suzuki,Lucknow,12
+Manufacturing and Engineering,Quality Control Engineer,844441,Quality Control Certification,Tata Steel,Chennai,16
+Manufacturing and Engineering,Process Engineer,944993,Process Engineering Certification,Tata Steel,Lucknow,3
+Manufacturing and Engineering,Quality Control Engineer,1005757,Bachelor's Degree in Quality Control,Bharat Heavy Electricals Limited (BHEL),Mumbai,5
+Manufacturing and Engineering,Process Engineer,1298917,Bachelor's Degree in Chemical Engineering,Tata Steel,Jaipur,4
+Manufacturing and Engineering,Mechanical Engineer,1352704,Bachelor's Degree in Mechanical Engineering,Mahindra & Mahindra,Ahmedabad,6
+Manufacturing and Engineering,Electrical Engineer,877657,Professional Engineer (PE) License,Tata Steel,Lucknow,4
+Manufacturing and Engineering,Process Engineer,851996,Bachelor's Degree in Chemical Engineering,Bharat Heavy Electricals Limited (BHEL),Kolkata,4
+Manufacturing and Engineering,Electrical Engineer,914319,Bachelor's Degree in Electrical Engineering,Larsen & Toubro,Chennai,2
+Manufacturing and Engineering,Production Manager,992156,Bachelor's Degree in Industrial Engineering,Maruti Suzuki,Bangalore,10
+Manufacturing and Engineering,Quality Control Engineer,736304,Quality Control Certification,Mahindra & Mahindra,Delhi,19
+Manufacturing and Engineering,Electrical Engineer,1169533,Bachelor's Degree in Electrical Engineering,Bharat Heavy Electricals Limited (BHEL),Chennai,6
+Manufacturing and Engineering,Process Engineer,920567,Process Engineering Certification,Mahindra & Mahindra,Kolkata,8
+Manufacturing and Engineering,Mechanical Engineer,1070785,Professional Engineer (PE) License,Larsen & Toubro,Pune,12
+Manufacturing and Engineering,Quality Control Engineer,662302,Quality Control Certification,Mahindra & Mahindra,Kolkata,0
+Manufacturing and Engineering,Production Manager,1138114,Bachelor's Degree in Industrial Engineering,Mahindra & Mahindra,Chennai,18
+Manufacturing and Engineering,Electrical Engineer,1286217,Bachelor's Degree in Electrical Engineering,Mahindra & Mahindra,Ahmedabad,3
+Manufacturing and Engineering,Mechanical Engineer,1399025,Professional Engineer (PE) License,Mahindra & Mahindra,Jaipur,16
+Manufacturing and Engineering,Process Engineer,1185925,Bachelor's Degree in Chemical Engineering,Larsen & Toubro,Jaipur,8
+Manufacturing and Engineering,Electrical Engineer,983783,Bachelor's Degree in Electrical Engineering,Larsen & Toubro,Hyderabad,11
+Manufacturing and Engineering,Production Manager,1125042,Bachelor's Degree in Industrial Engineering,Bharat Heavy Electricals Limited (BHEL),Hyderabad,6
+Manufacturing and Engineering,Mechanical Engineer,764743,Bachelor's Degree in Mechanical Engineering,Tata Steel,Bangalore,13
+Manufacturing and Engineering,Mechanical Engineer,1135180,Professional Engineer (PE) License,Mahindra & Mahindra,Hyderabad,5
+Manufacturing and Engineering,Electrical Engineer,1056262,Professional Engineer (PE) License,Mahindra & Mahindra,Delhi,17
+Manufacturing and Engineering,Process Engineer,1043501,Bachelor's Degree in Chemical Engineering,Mahindra & Mahindra,Pune,19
+Manufacturing and Engineering,Production Manager,806409,Bachelor's Degree in Industrial Engineering,Bharat Heavy Electricals Limited (BHEL),Lucknow,6
+Manufacturing and Engineering,Process Engineer,1194973,Bachelor's Degree in Chemical Engineering,Mahindra & Mahindra,Bangalore,3
+Manufacturing and Engineering,Electrical Engineer,994381,Bachelor's Degree in Electrical Engineering,Larsen & Toubro,Jaipur,16
+Manufacturing and Engineering,Electrical Engineer,1139235,Professional Engineer (PE) License,Bharat Heavy Electricals Limited (BHEL),Jaipur,17
+Manufacturing and Engineering,Process Engineer,1088557,Process Engineering Certification,Bharat Heavy Electricals Limited (BHEL),Ahmedabad,9
+Manufacturing and Engineering,Process Engineer,1181002,Process Engineering Certification,Tata Steel,Chennai,6
+Manufacturing and Engineering,Mechanical Engineer,1240101,Bachelor's Degree in Mechanical Engineering,Maruti Suzuki,Jaipur,19
+Manufacturing and Engineering,Mechanical Engineer,1360412,Professional Engineer (PE) License,Maruti Suzuki,Kolkata,9
+Manufacturing and Engineering,Process Engineer,1274572,Process Engineering Certification,Tata Steel,Ahmedabad,1
+Manufacturing and Engineering,Mechanical Engineer,825038,Bachelor's Degree in Mechanical Engineering,Mahindra & Mahindra,Delhi,12
+Manufacturing and Engineering,Mechanical Engineer,700769,Bachelor's Degree in Mechanical Engineering,Larsen & Toubro,Kolkata,14
+Manufacturing and Engineering,Electrical Engineer,1192568,Bachelor's Degree in Electrical Engineering,Larsen & Toubro,Ahmedabad,17
+Manufacturing and Engineering,Quality Control Engineer,772982,Quality Control Certification,Tata Steel,Bangalore,0
+Manufacturing and Engineering,Production Manager,1192673,Bachelor's Degree in Industrial Engineering,Mahindra & Mahindra,Jaipur,3
+Manufacturing and Engineering,Mechanical Engineer,878619,Professional Engineer (PE) License,Mahindra & Mahindra,Kolkata,18
+Manufacturing and Engineering,Electrical Engineer,1068625,Professional Engineer (PE) License,Tata Steel,Bangalore,8
+Manufacturing and Engineering,Mechanical Engineer,1014791,Bachelor's Degree in Mechanical Engineering,Maruti Suzuki,Delhi,4
+Manufacturing and Engineering,Production Manager,1153050,Bachelor's Degree in Industrial Engineering,Tata Steel,Chennai,0
+Manufacturing and Engineering,Production Manager,1192501,Production Management Certification,Mahindra & Mahindra,Mumbai,17
+Manufacturing and Engineering,Quality Control Engineer,898958,Bachelor's Degree in Quality Control,Maruti Suzuki,Hyderabad,15
+Manufacturing and Engineering,Electrical Engineer,1101569,Bachelor's Degree in Electrical Engineering,Larsen & Toubro,Hyderabad,8
+Manufacturing and Engineering,Mechanical Engineer,1243330,Bachelor's Degree in Mechanical Engineering,Tata Steel,Ahmedabad,5
+Manufacturing and Engineering,Electrical Engineer,1035020,Bachelor's Degree in Electrical Engineering,Larsen & Toubro,Lucknow,20
+Manufacturing and Engineering,Production Manager,906172,Bachelor's Degree in Industrial Engineering,Bharat Heavy Electricals Limited (BHEL),Delhi,1
+Manufacturing and Engineering,Production Manager,1162320,Production Management Certification,Tata Steel,Hyderabad,0
+Manufacturing and Engineering,Quality Control Engineer,1023499,Quality Control Certification,Mahindra & Mahindra,Jaipur,4
+Manufacturing and Engineering,Production Manager,1064779,Production Management Certification,Mahindra & Mahindra,Chennai,0
+Manufacturing and Engineering,Production Manager,1177543,Bachelor's Degree in Industrial Engineering,Bharat Heavy Electricals Limited (BHEL),Chennai,9
+Manufacturing and Engineering,Production Manager,671167,Production Management Certification,Maruti Suzuki,Mumbai,10
+Manufacturing and Engineering,Production Manager,647923,Bachelor's Degree in Industrial Engineering,Larsen & Toubro,Kolkata,1
+Manufacturing and Engineering,Mechanical Engineer,1087947,Professional Engineer (PE) License,Larsen & Toubro,Chennai,4
+Manufacturing and Engineering,Production Manager,650873,Bachelor's Degree in Industrial Engineering,Bharat Heavy Electricals Limited (BHEL),Hyderabad,19
+Manufacturing and Engineering,Process Engineer,1025395,Bachelor's Degree in Chemical Engineering,Bharat Heavy Electricals Limited (BHEL),Lucknow,2
+Manufacturing and Engineering,Mechanical Engineer,709588,Bachelor's Degree in Mechanical Engineering,Larsen & Toubro,Jaipur,13
+Manufacturing and Engineering,Production Manager,739128,Bachelor's Degree in Industrial Engineering,Bharat Heavy Electricals Limited (BHEL),Ahmedabad,1
+Manufacturing and Engineering,Quality Control Engineer,896296,Quality Control Certification,Maruti Suzuki,Mumbai,16
+Manufacturing and Engineering,Production Manager,824799,Production Management Certification,Mahindra & Mahindra,Lucknow,11
+Manufacturing and Engineering,Mechanical Engineer,1069226,Bachelor's Degree in Mechanical Engineering,Mahindra & Mahindra,Jaipur,18
+Manufacturing and Engineering,Production Manager,748337,Production Management Certification,Bharat Heavy Electricals Limited (BHEL),Mumbai,15
+Manufacturing and Engineering,Quality Control Engineer,823628,Bachelor's Degree in Quality Control,Bharat Heavy Electricals Limited (BHEL),Jaipur,7
+Manufacturing and Engineering,Production Manager,720484,Bachelor's Degree in Industrial Engineering,Mahindra & Mahindra,Bangalore,6
+Manufacturing and Engineering,Quality Control Engineer,657732,Quality Control Certification,Mahindra & Mahindra,Kolkata,12
+Manufacturing and Engineering,Mechanical Engineer,1116606,Professional Engineer (PE) License,Mahindra & Mahindra,Ahmedabad,2
+Marketing and Advertising,Market Research Analyst,904654,Bachelor's Degree in Market Research,McCann Erickson,Hyderabad,14
+Marketing and Advertising,Market Research Analyst,668782,Bachelor's Degree in Market Research,Lowe Lintas,Delhi,6
+Marketing and Advertising,Public Relations Specialist,767903,Public Relations Certification,DDB Mudra Group,Ahmedabad,2
+Marketing and Advertising,Public Relations Specialist,826692,Bachelor's Degree in Public Relations,JWT,Mumbai,13
+Marketing and Advertising,Market Research Analyst,621078,Bachelor's Degree in Market Research,McCann Erickson,Bangalore,2
+Marketing and Advertising,Public Relations Specialist,799521,Public Relations Certification,Ogilvy & Mather,Hyderabad,13
+Marketing and Advertising,Market Research Analyst,1041716,Bachelor's Degree in Market Research,Ogilvy & Mather,Delhi,3
+Marketing and Advertising,Public Relations Specialist,755897,Public Relations Certification,JWT,Delhi,13
+Marketing and Advertising,Market Research Analyst,660276,Market Research Certification,Ogilvy & Mather,Jaipur,7
+Marketing and Advertising,Advertising Executive,611360,Bachelor's Degree in Advertising,DDB Mudra Group,Hyderabad,10
+Marketing and Advertising,Market Research Analyst,590300,Market Research Certification,Lowe Lintas,Chennai,13
+Marketing and Advertising,Market Research Analyst,972738,Market Research Certification,Lowe Lintas,Lucknow,6
+Marketing and Advertising,Market Research Analyst,651534,Market Research Certification,DDB Mudra Group,Bangalore,19
+Marketing and Advertising,Public Relations Specialist,789968,Bachelor's Degree in Public Relations,DDB Mudra Group,Hyderabad,6
+Marketing and Advertising,Market Research Analyst,658181,Market Research Certification,Lowe Lintas,Chennai,16
+Marketing and Advertising,Public Relations Specialist,782999,Public Relations Certification,Ogilvy & Mather,Ahmedabad,8
+Marketing and Advertising,Marketing Manager,976869,Bachelor's Degree in Marketing,JWT,Lucknow,20
+Marketing and Advertising,Advertising Executive,771363,Advertising Certification,McCann Erickson,Pune,7
+Marketing and Advertising,Advertising Executive,521653,Bachelor's Degree in Advertising,McCann Erickson,Bangalore,12
+Marketing and Advertising,Marketing Manager,968168,Bachelor's Degree in Marketing,Ogilvy & Mather,Bangalore,19
+Marketing and Advertising,Advertising Executive,622614,Advertising Certification,DDB Mudra Group,Kolkata,13
+Marketing and Advertising,Digital Marketing Specialist,807672,Digital Marketing Certification,McCann Erickson,Mumbai,1
+Marketing and Advertising,Marketing Manager,973295,Master of Business Administration (MBA),McCann Erickson,Pune,5
+Marketing and Advertising,Market Research Analyst,921295,Market Research Certification,McCann Erickson,Delhi,6
+Marketing and Advertising,Marketing Manager,908276,Master of Business Administration (MBA),JWT,Kolkata,3
+Marketing and Advertising,Public Relations Specialist,744655,Bachelor's Degree in Public Relations,McCann Erickson,Bangalore,19
+Marketing and Advertising,Digital Marketing Specialist,727962,Bachelor's Degree in Digital Marketing,Ogilvy & Mather,Delhi,4
+Marketing and Advertising,Advertising Executive,857262,Advertising Certification,DDB Mudra Group,Pune,4
+Marketing and Advertising,Marketing Manager,982184,Bachelor's Degree in Marketing,McCann Erickson,Ahmedabad,11
+Marketing and Advertising,Digital Marketing Specialist,845685,Bachelor's Degree in Digital Marketing,McCann Erickson,Jaipur,19
+Marketing and Advertising,Public Relations Specialist,888518,Bachelor's Degree in Public Relations,JWT,Mumbai,1
+Marketing and Advertising,Marketing Manager,789135,Master of Business Administration (MBA),Lowe Lintas,Mumbai,3
+Marketing and Advertising,Digital Marketing Specialist,820453,Bachelor's Degree in Digital Marketing,Ogilvy & Mather,Pune,12
+Marketing and Advertising,Advertising Executive,589938,Advertising Certification,Ogilvy & Mather,Delhi,2
+Marketing and Advertising,Public Relations Specialist,553170,Public Relations Certification,DDB Mudra Group,Bangalore,3
+Marketing and Advertising,Public Relations Specialist,854049,Public Relations Certification,JWT,Pune,20
+Marketing and Advertising,Digital Marketing Specialist,792552,Digital Marketing Certification,JWT,Jaipur,12
+Marketing and Advertising,Marketing Manager,656414,Master of Business Administration (MBA),Ogilvy & Mather,Ahmedabad,2
+Marketing and Advertising,Market Research Analyst,600166,Bachelor's Degree in Market Research,McCann Erickson,Lucknow,15
+Marketing and Advertising,Marketing Manager,968228,Bachelor's Degree in Marketing,Lowe Lintas,Bangalore,1
+Marketing and Advertising,Marketing Manager,955770,Master of Business Administration (MBA),Lowe Lintas,Delhi,11
+Marketing and Advertising,Public Relations Specialist,626690,Bachelor's Degree in Public Relations,Ogilvy & Mather,Ahmedabad,1
+Marketing and Advertising,Market Research Analyst,1093523,Market Research Certification,Lowe Lintas,Bangalore,1
+Marketing and Advertising,Market Research Analyst,1069349,Bachelor's Degree in Market Research,JWT,Kolkata,17
+Marketing and Advertising,Marketing Manager,827301,Bachelor's Degree in Marketing,Lowe Lintas,Mumbai,6
+Marketing and Advertising,Advertising Executive,704274,Advertising Certification,DDB Mudra Group,Kolkata,15
+Marketing and Advertising,Marketing Manager,682564,Master of Business Administration (MBA),JWT,Lucknow,20
+Marketing and Advertising,Digital Marketing Specialist,623838,Bachelor's Degree in Digital Marketing,Lowe Lintas,Ahmedabad,13
+Marketing and Advertising,Marketing Manager,851497,Bachelor's Degree in Marketing,McCann Erickson,Delhi,9
+Marketing and Advertising,Public Relations Specialist,537406,Public Relations Certification,DDB Mudra Group,Pune,9
+Marketing and Advertising,Public Relations Specialist,486516,Bachelor's Degree in Public Relations,Lowe Lintas,Ahmedabad,20
+Marketing and Advertising,Public Relations Specialist,587489,Bachelor's Degree in Public Relations,Lowe Lintas,Mumbai,12
+Marketing and Advertising,Digital Marketing Specialist,873100,Digital Marketing Certification,Lowe Lintas,Mumbai,19
+Marketing and Advertising,Market Research Analyst,925164,Bachelor's Degree in Market Research,Lowe Lintas,Delhi,10
+Marketing and Advertising,Market Research Analyst,1046129,Market Research Certification,McCann Erickson,Pune,20
+Marketing and Advertising,Market Research Analyst,823707,Market Research Certification,McCann Erickson,Lucknow,11
+Marketing and Advertising,Marketing Manager,742193,Bachelor's Degree in Marketing,McCann Erickson,Hyderabad,8
+Marketing and Advertising,Market Research Analyst,914042,Bachelor's Degree in Market Research,Lowe Lintas,Hyderabad,18
+Marketing and Advertising,Public Relations Specialist,793692,Bachelor's Degree in Public Relations,JWT,Jaipur,17
+Marketing and Advertising,Advertising Executive,883425,Bachelor's Degree in Advertising,Ogilvy & Mather,Lucknow,1
+Marketing and Advertising,Advertising Executive,610179,Bachelor's Degree in Advertising,Ogilvy & Mather,Mumbai,14
+Marketing and Advertising,Public Relations Specialist,790420,Bachelor's Degree in Public Relations,McCann Erickson,Hyderabad,10
+Marketing and Advertising,Advertising Executive,614497,Bachelor's Degree in Advertising,DDB Mudra Group,Jaipur,7
+Marketing and Advertising,Advertising Executive,717132,Bachelor's Degree in Advertising,Ogilvy & Mather,Ahmedabad,15
+Marketing and Advertising,Marketing Manager,655162,Master of Business Administration (MBA),Ogilvy & Mather,Ahmedabad,4
+Marketing and Advertising,Advertising Executive,624253,Bachelor's Degree in Advertising,Ogilvy & Mather,Hyderabad,5
+Marketing and Advertising,Marketing Manager,893140,Master of Business Administration (MBA),Ogilvy & Mather,Hyderabad,3
+Marketing and Advertising,Advertising Executive,853622,Bachelor's Degree in Advertising,Lowe Lintas,Hyderabad,18
+Marketing and Advertising,Public Relations Specialist,621289,Public Relations Certification,Ogilvy & Mather,Hyderabad,14
+Marketing and Advertising,Digital Marketing Specialist,680311,Digital Marketing Certification,Lowe Lintas,Hyderabad,18
+Marketing and Advertising,Digital Marketing Specialist,880576,Digital Marketing Certification,Ogilvy & Mather,Jaipur,11
+Marketing and Advertising,Advertising Executive,624898,Advertising Certification,McCann Erickson,Kolkata,18
+Marketing and Advertising,Market Research Analyst,659806,Bachelor's Degree in Market Research,McCann Erickson,Kolkata,13
+Marketing and Advertising,Market Research Analyst,647315,Bachelor's Degree in Market Research,DDB Mudra Group,Bangalore,11
+Marketing and Advertising,Advertising Executive,680639,Advertising Certification,Lowe Lintas,Ahmedabad,5
+Marketing and Advertising,Market Research Analyst,747177,Bachelor's Degree in Market Research,Ogilvy & Mather,Jaipur,10
+Marketing and Advertising,Digital Marketing Specialist,959903,Digital Marketing Certification,JWT,Hyderabad,18
+Marketing and Advertising,Digital Marketing Specialist,891604,Digital Marketing Certification,McCann Erickson,Ahmedabad,8
+Real Estate,Real Estate Agent,960575,Real Estate License,Prestige Group,Jaipur,20
+Real Estate,Real Estate Developer,701873,Real Estate Development Certification,Prestige Group,Pune,3
+Real Estate,Property Manager,698986,Certified Property Manager (CPM),Prestige Group,Pune,19
+Real Estate,Real Estate Developer,903437,Real Estate Development Certification,Sobha Limited,Lucknow,8
+Real Estate,Real Estate Agent,1050350,Bachelor's Degree in Real Estate,Prestige Group,Jaipur,15
+Real Estate,Real Estate Developer,970584,Bachelor's Degree in Real Estate Development,Prestige Group,Delhi,0
+Real Estate,Property Manager,660857,Bachelor's Degree in Property Management,DLF,Jaipur,10
+Real Estate,Real Estate Agent,1025759,Bachelor's Degree in Real Estate,Oberoi Realty,Jaipur,0
+Real Estate,Real Estate Developer,765915,Bachelor's Degree in Real Estate Development,DLF,Pune,0
+Real Estate,Real Estate Agent,623865,Bachelor's Degree in Real Estate,Godrej Properties,Hyderabad,8
+Real Estate,Property Manager,819598,Bachelor's Degree in Property Management,DLF,Lucknow,9
+Real Estate,Property Manager,720602,Certified Property Manager (CPM),Oberoi Realty,Kolkata,3
+Real Estate,Real Estate Agent,657093,Real Estate License,DLF,Bangalore,8
+Real Estate,Real Estate Agent,588472,Bachelor's Degree in Real Estate,Prestige Group,Chennai,6
+Real Estate,Real Estate Agent,614986,Bachelor's Degree in Real Estate,Sobha Limited,Chennai,11
+Real Estate,Property Manager,822172,Certified Property Manager (CPM),Oberoi Realty,Jaipur,12
+Real Estate,Real Estate Agent,1095278,Real Estate License,Oberoi Realty,Pune,7
+Real Estate,Property Manager,1062584,Bachelor's Degree in Property Management,DLF,Delhi,7
+Real Estate,Property Manager,890216,Certified Property Manager (CPM),Oberoi Realty,Kolkata,7
+Real Estate,Real Estate Agent,606442,Bachelor's Degree in Real Estate,Oberoi Realty,Kolkata,17
+Real Estate,Real Estate Developer,1021798,Bachelor's Degree in Real Estate Development,Sobha Limited,Jaipur,5
+Real Estate,Real Estate Developer,964583,Bachelor's Degree in Real Estate Development,Prestige Group,Jaipur,15
+Real Estate,Property Manager,711087,Bachelor's Degree in Property Management,Godrej Properties,Lucknow,19
+Real Estate,Real Estate Developer,904659,Real Estate Development Certification,DLF,Ahmedabad,11
+Real Estate,Real Estate Agent,728163,Bachelor's Degree in Real Estate,Prestige Group,Kolkata,0
+Real Estate,Property Manager,829828,Bachelor's Degree in Property Management,Oberoi Realty,Mumbai,12
+Real Estate,Real Estate Agent,857250,Real Estate License,Godrej Properties,Ahmedabad,19
+Real Estate,Real Estate Agent,1036192,Bachelor's Degree in Real Estate,Prestige Group,Chennai,19
+Real Estate,Real Estate Developer,1070251,Bachelor's Degree in Real Estate Development,DLF,Ahmedabad,6
+Real Estate,Property Manager,947435,Bachelor's Degree in Property Management,Oberoi Realty,Hyderabad,0
+Real Estate,Property Manager,1141840,Certified Property Manager (CPM),Sobha Limited,Ahmedabad,0
+Real Estate,Real Estate Agent,1055185,Bachelor's Degree in Real Estate,DLF,Ahmedabad,15
+Real Estate,Property Manager,856735,Bachelor's Degree in Property Management,Prestige Group,Bangalore,19
+Real Estate,Property Manager,964058,Certified Property Manager (CPM),Oberoi Realty,Hyderabad,4
+Real Estate,Real Estate Agent,675887,Real Estate License,DLF,Lucknow,12
+Real Estate,Property Manager,1146723,Certified Property Manager (CPM),Godrej Properties,Delhi,14
+Real Estate,Real Estate Developer,1020593,Bachelor's Degree in Real Estate Development,Godrej Properties,Chennai,18
+Real Estate,Real Estate Developer,1091179,Real Estate Development Certification,DLF,Hyderabad,3
+Real Estate,Property Manager,604148,Bachelor's Degree in Property Management,Oberoi Realty,Bangalore,19
+Real Estate,Real Estate Developer,1166412,Bachelor's Degree in Real Estate Development,Oberoi Realty,Mumbai,7
+Real Estate,Property Manager,1085508,Certified Property Manager (CPM),Godrej Properties,Bangalore,9
+Real Estate,Property Manager,695591,Bachelor's Degree in Property Management,DLF,Ahmedabad,16
+Real Estate,Real Estate Agent,841282,Real Estate License,Godrej Properties,Lucknow,9
+Real Estate,Real Estate Developer,1239164,Bachelor's Degree in Real Estate Development,Sobha Limited,Ahmedabad,4
+Real Estate,Real Estate Agent,1049466,Real Estate License,DLF,Bangalore,0
+Real Estate,Real Estate Agent,674212,Bachelor's Degree in Real Estate,Oberoi Realty,Mumbai,5
+Real Estate,Real Estate Agent,939429,Real Estate License,Sobha Limited,Mumbai,1
+Real Estate,Real Estate Agent,693797,Real Estate License,Sobha Limited,Bangalore,2
+Real Estate,Property Manager,1187000,Bachelor's Degree in Property Management,Godrej Properties,Lucknow,10
+Real Estate,Real Estate Developer,977032,Bachelor's Degree in Real Estate Development,Oberoi Realty,Hyderabad,6
+Real Estate,Real Estate Agent,800487,Real Estate License,Prestige Group,Chennai,14
+Real Estate,Property Manager,833768,Certified Property Manager (CPM),Sobha Limited,Pune,10
+Real Estate,Real Estate Agent,647118,Bachelor's Degree in Real Estate,Prestige Group,Delhi,0
+Real Estate,Real Estate Agent,1021011,Real Estate License,DLF,Hyderabad,4
+Real Estate,Property Manager,829987,Bachelor's Degree in Property Management,DLF,Pune,2
+Real Estate,Property Manager,1042963,Certified Property Manager (CPM),Godrej Properties,Mumbai,11
+Real Estate,Property Manager,944100,Bachelor's Degree in Property Management,DLF,Ahmedabad,18
+Real Estate,Real Estate Developer,1111586,Real Estate Development Certification,DLF,Kolkata,17
+Real Estate,Property Manager,803891,Bachelor's Degree in Property Management,Oberoi Realty,Lucknow,19
+Real Estate,Property Manager,1165532,Certified Property Manager (CPM),Sobha Limited,Hyderabad,14
+Real Estate,Property Manager,805248,Certified Property Manager (CPM),Godrej Properties,Bangalore,3
+Real Estate,Property Manager,744924,Bachelor's Degree in Property Management,Godrej Properties,Pune,17
+Real Estate,Real Estate Developer,1223103,Real Estate Development Certification,DLF,Ahmedabad,12
+Real Estate,Property Manager,1117282,Bachelor's Degree in Property Management,Oberoi Realty,Jaipur,5
+Real Estate,Property Manager,1081621,Bachelor's Degree in Property Management,Sobha Limited,Delhi,11
+Real Estate,Real Estate Agent,903599,Real Estate License,Godrej Properties,Mumbai,17
+Real Estate,Property Manager,801877,Certified Property Manager (CPM),Sobha Limited,Kolkata,13
+Real Estate,Real Estate Developer,1226170,Bachelor's Degree in Real Estate Development,Prestige Group,Delhi,7
+Real Estate,Real Estate Agent,1089603,Real Estate License,Godrej Properties,Kolkata,5
+Real Estate,Property Manager,822353,Certified Property Manager (CPM),DLF,Kolkata,20
+Real Estate,Real Estate Agent,918031,Real Estate License,DLF,Mumbai,0
+Real Estate,Real Estate Agent,670171,Bachelor's Degree in Real Estate,Sobha Limited,Delhi,17
+Real Estate,Property Manager,812705,Certified Property Manager (CPM),Sobha Limited,Bangalore,16
+Real Estate,Real Estate Agent,725888,Bachelor's Degree in Real Estate,DLF,Ahmedabad,18
+Real Estate,Real Estate Agent,973534,Real Estate License,DLF,Delhi,13
+Real Estate,Real Estate Developer,1228634,Bachelor's Degree in Real Estate Development,DLF,Pune,13
+Real Estate,Real Estate Developer,1031910,Real Estate Development Certification,Prestige Group,Delhi,3
+Real Estate,Property Manager,762704,Certified Property Manager (CPM),Oberoi Realty,Bangalore,3
+Real Estate,Real Estate Agent,806817,Bachelor's Degree in Real Estate,Sobha Limited,Lucknow,9
+Real Estate,Real Estate Developer,826418,Bachelor's Degree in Real Estate Development,Sobha Limited,Ahmedabad,4
+Real Estate,Property Manager,626803,Certified Property Manager (CPM),Sobha Limited,Pune,10
+Real Estate,Real Estate Agent,902728,Real Estate License,Oberoi Realty,Pune,4
+Real Estate,Real Estate Agent,1027005,Bachelor's Degree in Real Estate,Sobha Limited,Ahmedabad,9
+Real Estate,Property Manager,625403,Certified Property Manager (CPM),Oberoi Realty,Bangalore,0
+Real Estate,Real Estate Developer,961898,Real Estate Development Certification,Godrej Properties,Hyderabad,16
+Real Estate,Real Estate Agent,841029,Bachelor's Degree in Real Estate,DLF,Chennai,4
+Real Estate,Property Manager,606148,Certified Property Manager (CPM),Oberoi Realty,Kolkata,7
+Real Estate,Real Estate Developer,900670,Bachelor's Degree in Real Estate Development,Sobha Limited,Lucknow,0
+Real Estate,Real Estate Developer,948908,Bachelor's Degree in Real Estate Development,Prestige Group,Delhi,12
+Real Estate,Real Estate Agent,962219,Real Estate License,Sobha Limited,Bangalore,17
+Real Estate,Property Manager,990655,Certified Property Manager (CPM),DLF,Delhi,8
+Real Estate,Real Estate Agent,1028070,Real Estate License,Oberoi Realty,Chennai,16
+Real Estate,Real Estate Developer,1170340,Real Estate Development Certification,Prestige Group,Ahmedabad,12
+Real Estate,Property Manager,996906,Certified Property Manager (CPM),Godrej Properties,Pune,4
+Real Estate,Real Estate Agent,1086273,Real Estate License,DLF,Bangalore,8
+Real Estate,Real Estate Agent,825660,Real Estate License,Oberoi Realty,Bangalore,10
+Real Estate,Property Manager,1044935,Bachelor's Degree in Property Management,Oberoi Realty,Chennai,6
+Real Estate,Real Estate Agent,622723,Bachelor's Degree in Real Estate,Prestige Group,Chennai,4
+Real Estate,Real Estate Agent,641880,Real Estate License,Prestige Group,Hyderabad,19
+Real Estate,Property Manager,909165,Bachelor's Degree in Property Management,DLF,Ahmedabad,19
+Real Estate,Property Manager,901117,Bachelor's Degree in Property Management,Sobha Limited,Ahmedabad,2
+Real Estate,Property Manager,714043,Certified Property Manager (CPM),Oberoi Realty,Hyderabad,16
+Real Estate,Real Estate Agent,823671,Bachelor's Degree in Real Estate,Sobha Limited,Mumbai,12
+Real Estate,Real Estate Agent,624849,Bachelor's Degree in Real Estate,Sobha Limited,Chennai,20
+Real Estate,Real Estate Agent,627703,Real Estate License,Godrej Properties,Hyderabad,10
+Retail,Store Manager,673581,Bachelor's Degree in Retail Management,Aditya Birla Fashion & Retail,Jaipur,0
+Retail,Retail Buyer,905623,Certification in Retail Buying,Aditya Birla Fashion & Retail,Bangalore,2
+Retail,Merchandiser,782581,Merchandising Certification,Shoppers Stop,Chennai,18
+Retail,Retail Buyer,641452,Bachelor's Degree in Merchandising,Reliance Retail,Bangalore,7
+Retail,Sales Associate,509581,High School Diploma,Trent,Chennai,4
+Retail,Sales Associate,721988,High School Diploma,Future Lifestyle Fashion,Delhi,14
+Retail,Store Manager,940035,Bachelor's Degree in Retail Management,Shoppers Stop,Jaipur,20
+Retail,Sales Associate,437368,Retail Sales Certification,Reliance Retail,Hyderabad,10
+Retail,Merchandiser,659638,Merchandising Certification,Aditya Birla Fashion & Retail,Jaipur,18
+Retail,Store Manager,651017,Bachelor's Degree in Retail Management,Reliance Retail,Chennai,3
+Retail,Sales Associate,776420,Retail Sales Certification,Reliance Retail,Bangalore,9
+Retail,Retail Buyer,936236,Certification in Retail Buying,Future Lifestyle Fashion,Kolkata,8
+Retail,Sales Associate,681072,Retail Sales Certification,Reliance Retail,Mumbai,0
+Retail,Retail Buyer,630014,Certification in Retail Buying,Aditya Birla Fashion & Retail,Lucknow,13
+Retail,Sales Associate,489550,High School Diploma,Shoppers Stop,Kolkata,18
+Retail,Store Manager,947698,Retail Management Certification,Trent,Mumbai,3
+Retail,Merchandiser,798086,Bachelor's Degree in Merchandising,Reliance Retail,Kolkata,7
+Retail,Sales Associate,512363,Retail Sales Certification,Reliance Retail,Chennai,0
+Retail,Sales Associate,451394,Retail Sales Certification,Shoppers Stop,Ahmedabad,15
+Retail,Sales Associate,695226,High School Diploma,Reliance Retail,Hyderabad,16
+Retail,Retail Buyer,530386,Bachelor's Degree in Merchandising,Trent,Lucknow,14
+Retail,Store Manager,616044,Retail Management Certification,Reliance Retail,Pune,14
+Retail,Retail Buyer,909388,Bachelor's Degree in Merchandising,Shoppers Stop,Jaipur,12
+Retail,Retail Buyer,575753,Certification in Retail Buying,Aditya Birla Fashion & Retail,Pune,0
+Retail,Merchandiser,575647,Merchandising Certification,Reliance Retail,Ahmedabad,20
+Retail,Sales Associate,700790,Retail Sales Certification,Reliance Retail,Jaipur,5
+Retail,Merchandiser,467144,Merchandising Certification,Shoppers Stop,Mumbai,17
+Retail,Retail Buyer,747864,Certification in Retail Buying,Shoppers Stop,Chennai,0
+Retail,Sales Associate,418871,Retail Sales Certification,Future Lifestyle Fashion,Ahmedabad,8
+Retail,Merchandiser,769831,Bachelor's Degree in Merchandising,Reliance Retail,Kolkata,19
+Retail,Retail Buyer,685092,Bachelor's Degree in Merchandising,Future Lifestyle Fashion,Pune,2
+Retail,Sales Associate,543572,High School Diploma,Shoppers Stop,Chennai,3
+Retail,Sales Associate,732589,High School Diploma,Shoppers Stop,Jaipur,18
+Retail,Retail Buyer,537878,Certification in Retail Buying,Reliance Retail,Kolkata,19
+Retail,Merchandiser,646028,Bachelor's Degree in Merchandising,Reliance Retail,Hyderabad,0
+Retail,Store Manager,664375,Retail Management Certification,Reliance Retail,Pune,0
+Retail,Retail Buyer,936171,Certification in Retail Buying,Future Lifestyle Fashion,Pune,6
+Retail,Retail Buyer,736000,Certification in Retail Buying,Trent,Lucknow,14
+Retail,Sales Associate,705638,Retail Sales Certification,Reliance Retail,Pune,11
+Retail,Sales Associate,590212,Retail Sales Certification,Trent,Delhi,20
+Retail,Retail Buyer,891530,Bachelor's Degree in Merchandising,Shoppers Stop,Ahmedabad,0
+Retail,Merchandiser,888995,Merchandising Certification,Aditya Birla Fashion & Retail,Hyderabad,15
+Retail,Merchandiser,725288,Merchandising Certification,Aditya Birla Fashion & Retail,Hyderabad,18
+Retail,Retail Buyer,689205,Bachelor's Degree in Merchandising,Aditya Birla Fashion & Retail,Pune,15
+Retail,Store Manager,797897,Bachelor's Degree in Retail Management,Reliance Retail,Mumbai,13
+Retail,Merchandiser,642313,Bachelor's Degree in Merchandising,Aditya Birla Fashion & Retail,Ahmedabad,10
+Retail,Retail Buyer,828066,Certification in Retail Buying,Reliance Retail,Pune,15
+Retail,Sales Associate,609131,High School Diploma,Trent,Mumbai,20
+Retail,Merchandiser,694297,Merchandising Certification,Shoppers Stop,Lucknow,16
+Retail,Store Manager,900198,Bachelor's Degree in Retail Management,Future Lifestyle Fashion,Ahmedabad,1
+Retail,Retail Buyer,761519,Certification in Retail Buying,Shoppers Stop,Delhi,18
+Retail,Merchandiser,569666,Merchandising Certification,Reliance Retail,Jaipur,20
+Retail,Merchandiser,534362,Merchandising Certification,Future Lifestyle Fashion,Hyderabad,2
+Retail,Merchandiser,810264,Bachelor's Degree in Merchandising,Aditya Birla Fashion & Retail,Delhi,11
+Retail,Sales Associate,494529,High School Diploma,Reliance Retail,Chennai,4
+Retail,Store Manager,684903,Bachelor's Degree in Retail Management,Shoppers Stop,Jaipur,8
+Retail,Retail Buyer,657021,Bachelor's Degree in Merchandising,Aditya Birla Fashion & Retail,Bangalore,14
+Retail,Retail Buyer,774667,Bachelor's Degree in Merchandising,Trent,Kolkata,20
+Retail,Merchandiser,625766,Merchandising Certification,Aditya Birla Fashion & Retail,Kolkata,20
+Retail,Store Manager,990366,Bachelor's Degree in Retail Management,Aditya Birla Fashion & Retail,Kolkata,20
+Retail,Sales Associate,776938,Retail Sales Certification,Future Lifestyle Fashion,Chennai,18
+Retail,Retail Buyer,918808,Certification in Retail Buying,Aditya Birla Fashion & Retail,Ahmedabad,8
+Retail,Store Manager,598894,Retail Management Certification,Shoppers Stop,Chennai,15
+Retail,Merchandiser,675003,Bachelor's Degree in Merchandising,Shoppers Stop,Hyderabad,16
+Retail,Retail Buyer,795138,Bachelor's Degree in Merchandising,Reliance Retail,Jaipur,6
+Retail,Store Manager,1083197,Retail Management Certification,Future Lifestyle Fashion,Chennai,15
+Retail,Merchandiser,465696,Bachelor's Degree in Merchandising,Aditya Birla Fashion & Retail,Bangalore,0
+Retail,Store Manager,688395,Retail Management Certification,Aditya Birla Fashion & Retail,Delhi,11
+Retail,Merchandiser,522501,Merchandising Certification,Trent,Pune,10
+Retail,Retail Buyer,606818,Bachelor's Degree in Merchandising,Reliance Retail,Bangalore,19
+Retail,Sales Associate,644947,High School Diploma,Trent,Delhi,13
+Retail,Retail Buyer,983897,Bachelor's Degree in Merchandising,Reliance Retail,Kolkata,8
+Retail,Sales Associate,600282,Retail Sales Certification,Future Lifestyle Fashion,Mumbai,18
+Sales,Sales Representative,861857,High School Diploma,Reliance Retail,Chennai,18
+Sales,Business Development Manager,738707,Business Development Certification,Spencer's Retail,Hyderabad,20
+Sales,Sales Representative,712049,Sales Training,Aditya Birla Retail,Ahmedabad,8
+Sales,Account Executive,713951,Bachelor's Degree in Sales,Tata Retail,Chennai,17
+Sales,Account Executive,973933,Sales Certification,Spencer's Retail,Kolkata,16
+Sales,Sales Manager,1120034,Sales Management Certification,Aditya Birla Retail,Delhi,20
+Sales,Sales Representative,510932,Sales Training,Spencer's Retail,Jaipur,5
+Sales,Account Executive,927557,Sales Certification,Future Group,Ahmedabad,14
+Sales,Sales Representative,586588,Sales Training,Tata Retail,Jaipur,9
+Sales,Sales Representative,491449,High School Diploma,Tata Retail,Chennai,14
+Sales,Sales Manager,764478,Bachelor's Degree in Sales Management,Future Group,Hyderabad,19
+Sales,Sales Representative,573027,Sales Training,Future Group,Pune,16
+Sales,Sales Representative,833282,High School Diploma,Aditya Birla Retail,Lucknow,7
+Sales,Sales Manager,714944,Sales Management Certification,Reliance Retail,Hyderabad,3
+Sales,Sales Manager,731590,Sales Management Certification,Reliance Retail,Bangalore,8
+Sales,Account Executive,615921,Sales Certification,Aditya Birla Retail,Delhi,4
+Sales,Sales Manager,1067880,Sales Management Certification,Reliance Retail,Delhi,14
+Sales,Business Development Manager,943249,Business Development Certification,Reliance Retail,Jaipur,8
+Sales,Business Development Manager,1211047,Bachelor's Degree in Business Development,Tata Retail,Ahmedabad,10
+Sales,Sales Representative,754160,High School Diploma,Future Group,Ahmedabad,1
+Sales,Business Development Manager,1256919,Business Development Certification,Aditya Birla Retail,Lucknow,13
+Sales,Sales Manager,983247,Sales Management Certification,Spencer's Retail,Ahmedabad,12
+Sales,Business Development Manager,1185352,Bachelor's Degree in Business Development,Future Group,Bangalore,6
+Sales,Sales Representative,586729,Sales Training,Aditya Birla Retail,Ahmedabad,10
+Sales,Business Development Manager,1139124,Bachelor's Degree in Business Development,Aditya Birla Retail,Pune,5
+Sales,Business Development Manager,1124771,Bachelor's Degree in Business Development,Aditya Birla Retail,Jaipur,8
+Sales,Sales Manager,1091699,Sales Management Certification,Aditya Birla Retail,Hyderabad,19
+Sales,Business Development Manager,891899,Bachelor's Degree in Business Development,Future Group,Hyderabad,15
+Sales,Sales Representative,685465,High School Diploma,Reliance Retail,Pune,3
+Sales,Account Executive,681547,Sales Certification,Aditya Birla Retail,Chennai,10
+Sales,Sales Manager,1145818,Sales Management Certification,Spencer's Retail,Lucknow,14
+Sales,Sales Manager,1072628,Sales Management Certification,Tata Retail,Pune,14
+Sales,Sales Representative,673373,High School Diploma,Future Group,Delhi,17
+Sales,Sales Representative,603386,Sales Training,Aditya Birla Retail,Lucknow,16
+Sales,Sales Manager,970122,Bachelor's Degree in Sales Management,Future Group,Hyderabad,4
+Sales,Business Development Manager,881514,Bachelor's Degree in Business Development,Aditya Birla Retail,Chennai,9
+Sales,Account Executive,500801,Bachelor's Degree in Sales,Tata Retail,Kolkata,5
+Sales,Sales Manager,635775,Sales Management Certification,Tata Retail,Mumbai,17
+Sales,Account Executive,598722,Sales Certification,Aditya Birla Retail,Chennai,19
+Sales,Business Development Manager,888309,Business Development Certification,Future Group,Bangalore,12
+Sales,Account Executive,659480,Sales Certification,Aditya Birla Retail,Hyderabad,15
+Sales,Sales Manager,1046580,Bachelor's Degree in Sales Management,Tata Retail,Delhi,19
+Sales,Account Executive,624172,Bachelor's Degree in Sales,Spencer's Retail,Chennai,0
+Sales,Account Executive,536270,Bachelor's Degree in Sales,Reliance Retail,Jaipur,6
+Sales,Account Executive,579849,Sales Certification,Spencer's Retail,Mumbai,11
+Sales,Sales Representative,452042,High School Diploma,Reliance Retail,Mumbai,11
+Sales,Sales Manager,764192,Bachelor's Degree in Sales Management,Future Group,Hyderabad,14
+Sales,Account Executive,864948,Sales Certification,Future Group,Delhi,1
+Sales,Sales Manager,1043089,Bachelor's Degree in Sales Management,Spencer's Retail,Chennai,17
+Sales,Sales Representative,806462,Sales Training,Future Group,Delhi,10
+Sales,Account Executive,663030,Bachelor's Degree in Sales,Future Group,Kolkata,2
+Sales,Sales Manager,841185,Bachelor's Degree in Sales Management,Tata Retail,Pune,13
+Sales,Account Executive,940133,Bachelor's Degree in Sales,Tata Retail,Delhi,16
+Sales,Sales Representative,665148,Sales Training,Future Group,Pune,8
+Sales,Sales Representative,758368,Sales Training,Spencer's Retail,Pune,0
+Sales,Sales Representative,652259,High School Diploma,Aditya Birla Retail,Jaipur,5
+Sales,Business Development Manager,936151,Bachelor's Degree in Business Development,Reliance Retail,Hyderabad,5
+Sales,Sales Representative,611077,Sales Training,Aditya Birla Retail,Chennai,4
+Sales,Business Development Manager,1279985,Business Development Certification,Aditya Birla Retail,Mumbai,1
+Sales,Business Development Manager,840515,Bachelor's Degree in Business Development,Future Group,Bangalore,9
+Sales,Business Development Manager,923230,Bachelor's Degree in Business Development,Reliance Retail,Mumbai,3
+Sales,Account Executive,988285,Bachelor's Degree in Sales,Future Group,Pune,6
+Sales,Sales Manager,981081,Bachelor's Degree in Sales Management,Reliance Retail,Jaipur,18
+Sales,Sales Representative,726298,Sales Training,Future Group,Delhi,15
+Sales,Account Executive,824877,Sales Certification,Reliance Retail,Jaipur,4
+Sales,Account Executive,776782,Sales Certification,Reliance Retail,Jaipur,3
+Sales,Sales Manager,930028,Bachelor's Degree in Sales Management,Aditya Birla Retail,Mumbai,17
+Sales,Sales Representative,512565,Sales Training,Reliance Retail,Lucknow,1
+Sales,Sales Representative,602650,Sales Training,Tata Retail,Jaipur,14
+Sales,Account Executive,795106,Sales Certification,Spencer's Retail,Mumbai,13
+Sales,Sales Manager,1139837,Bachelor's Degree in Sales Management,Future Group,Bangalore,18
+Sales,Business Development Manager,911621,Bachelor's Degree in Business Development,Tata Retail,Chennai,1
+Sales,Sales Representative,667550,Sales Training,Spencer's Retail,Lucknow,13
+Sales,Sales Representative,452913,Sales Training,Reliance Retail,Mumbai,13
+Sales,Account Executive,746388,Sales Certification,Tata Retail,Jaipur,17
+Sales,Business Development Manager,684229,Bachelor's Degree in Business Development,Spencer's Retail,Jaipur,11
+Sales,Business Development Manager,1035187,Bachelor's Degree in Business Development,Aditya Birla Retail,Kolkata,19
+Sales,Account Executive,992615,Bachelor's Degree in Sales,Future Group,Delhi,13
+Sales,Sales Manager,1038860,Sales Management Certification,Reliance Retail,Lucknow,13
+Sales,Sales Representative,668284,Sales Training,Tata Retail,Lucknow,17
+Sales,Business Development Manager,897115,Bachelor's Degree in Business Development,Future Group,Mumbai,15
+Sales,Sales Representative,696798,High School Diploma,Tata Retail,Kolkata,4
+Sales,Sales Manager,1111698,Bachelor's Degree in Sales Management,Future Group,Lucknow,9
+Sales,Sales Manager,1066169,Bachelor's Degree in Sales Management,Aditya Birla Retail,Pune,5
+Sales,Account Executive,834037,Bachelor's Degree in Sales,Spencer's Retail,Hyderabad,17
+Sales,Sales Manager,961827,Sales Management Certification,Spencer's Retail,Delhi,8
+Sales,Account Executive,627016,Sales Certification,Future Group,Bangalore,1
+Telecommunications,Systems Analyst,789501,Systems Analyst Certification,Tata Communications,Delhi,1
+Telecommunications,Systems Analyst,1025822,Bachelor's Degree in Systems Analysis,Tata Communications,Chennai,7
+Telecommunications,Systems Analyst,748374,Bachelor's Degree in Systems Analysis,Reliance Jio,Lucknow,8
+Telecommunications,Network Engineer,1136252,Bachelor's Degree in Telecommunications,BSNL,Kolkata,14
+Telecommunications,Network Engineer,1148260,Bachelor's Degree in Telecommunications,Reliance Jio,Lucknow,20
+Telecommunications,Telecommunications Specialist,1298032,Telecommunications Certification,BSNL,Chennai,3
+Telecommunications,Systems Analyst,843245,Systems Analyst Certification,Reliance Jio,Lucknow,13
+Telecommunications,Network Engineer,1322390,Bachelor's Degree in Telecommunications,Tata Communications,Ahmedabad,5
+Telecommunications,Telecommunications Specialist,818304,Telecommunications Certification,Tata Communications,Chennai,16
+Telecommunications,Telecommunications Specialist,1108211,Bachelor's Degree in Telecommunications,Vodafone Idea,Chennai,18
+Telecommunications,Network Engineer,1257926,Cisco Certified Internetwork Expert (CCIE),Reliance Jio,Chennai,3
+Telecommunications,Systems Analyst,672775,Systems Analyst Certification,Vodafone Idea,Delhi,13
+Telecommunications,Systems Analyst,928506,Bachelor's Degree in Systems Analysis,Vodafone Idea,Delhi,3
+Telecommunications,Systems Analyst,1090341,Bachelor's Degree in Systems Analysis,Bharti Airtel,Hyderabad,1
+Telecommunications,Network Engineer,988320,Cisco Certified Internetwork Expert (CCIE),Vodafone Idea,Jaipur,13
+Telecommunications,Systems Analyst,772426,Systems Analyst Certification,Vodafone Idea,Kolkata,7
+Telecommunications,Systems Analyst,1096422,Bachelor's Degree in Systems Analysis,BSNL,Jaipur,12
+Telecommunications,Systems Analyst,1006262,Systems Analyst Certification,Vodafone Idea,Jaipur,15
+Telecommunications,Network Engineer,1051265,Bachelor's Degree in Telecommunications,Tata Communications,Hyderabad,11
+Telecommunications,Systems Analyst,1032341,Systems Analyst Certification,Tata Communications,Bangalore,1
+Telecommunications,Network Engineer,1385636,Bachelor's Degree in Telecommunications,Tata Communications,Ahmedabad,12
+Telecommunications,Telecommunications Specialist,1220031,Bachelor's Degree in Telecommunications,Tata Communications,Jaipur,11
+Telecommunications,Telecommunications Specialist,657751,Bachelor's Degree in Telecommunications,Reliance Jio,Kolkata,20
+Telecommunications,Telecommunications Specialist,804196,Telecommunications Certification,Vodafone Idea,Pune,9
+Telecommunications,Telecommunications Specialist,811417,Bachelor's Degree in Telecommunications,Vodafone Idea,Jaipur,5
+Telecommunications,Telecommunications Specialist,823338,Telecommunications Certification,Vodafone Idea,Bangalore,17
+Telecommunications,Systems Analyst,691774,Bachelor's Degree in Systems Analysis,BSNL,Jaipur,7
+Telecommunications,Telecommunications Specialist,1185721,Bachelor's Degree in Telecommunications,Bharti Airtel,Jaipur,6
+Telecommunications,Systems Analyst,1046308,Systems Analyst Certification,Bharti Airtel,Chennai,9
+Telecommunications,Systems Analyst,696677,Systems Analyst Certification,Reliance Jio,Pune,0
+Telecommunications,Telecommunications Specialist,651268,Telecommunications Certification,Reliance Jio,Jaipur,10
+Telecommunications,Systems Analyst,851070,Systems Analyst Certification,Vodafone Idea,Chennai,5
+Telecommunications,Systems Analyst,772745,Bachelor's Degree in Systems Analysis,Tata Communications,Kolkata,17
+Telecommunications,Network Engineer,981098,Bachelor's Degree in Telecommunications,Reliance Jio,Chennai,7
+Telecommunications,Telecommunications Specialist,1154783,Telecommunications Certification,Bharti Airtel,Kolkata,2
+Telecommunications,Network Engineer,787979,Bachelor's Degree in Telecommunications,Tata Communications,Lucknow,19
+Telecommunications,Systems Analyst,731363,Systems Analyst Certification,BSNL,Chennai,6
+Telecommunications,Telecommunications Specialist,1234951,Bachelor's Degree in Telecommunications,Bharti Airtel,Mumbai,2
+Telecommunications,Network Engineer,1035541,Cisco Certified Internetwork Expert (CCIE),BSNL,Mumbai,2
+Telecommunications,Systems Analyst,1008623,Bachelor's Degree in Systems Analysis,Bharti Airtel,Ahmedabad,12
+Telecommunications,Telecommunications Specialist,1040623,Telecommunications Certification,Reliance Jio,Delhi,18
+Telecommunications,Systems Analyst,1147927,Systems Analyst Certification,Bharti Airtel,Mumbai,4
+Telecommunications,Telecommunications Specialist,697224,Bachelor's Degree in Telecommunications,Tata Communications,Delhi,15
+Telecommunications,Telecommunications Specialist,1202550,Bachelor's Degree in Telecommunications,Vodafone Idea,Bangalore,17
+Telecommunications,Systems Analyst,1192941,Bachelor's Degree in Systems Analysis,Tata Communications,Lucknow,17
+Telecommunications,Network Engineer,1038403,Cisco Certified Internetwork Expert (CCIE),Bharti Airtel,Ahmedabad,2
+Telecommunications,Network Engineer,830858,Bachelor's Degree in Telecommunications,Bharti Airtel,Ahmedabad,1
+Telecommunications,Systems Analyst,1075558,Bachelor's Degree in Systems Analysis,Vodafone Idea,Kolkata,9
+Telecommunications,Systems Analyst,1014324,Bachelor's Degree in Systems Analysis,BSNL,Jaipur,14
+Telecommunications,Telecommunications Specialist,772665,Bachelor's Degree in Telecommunications,BSNL,Delhi,17
+Telecommunications,Telecommunications Specialist,781250,Telecommunications Certification,BSNL,Pune,16
+Telecommunications,Telecommunications Specialist,1022054,Telecommunications Certification,Reliance Jio,Bangalore,7
+Telecommunications,Network Engineer,1247461,Cisco Certified Internetwork Expert (CCIE),BSNL,Pune,4
+Telecommunications,Systems Analyst,1125120,Bachelor's Degree in Systems Analysis,Bharti Airtel,Mumbai,7
+Telecommunications,Telecommunications Specialist,1244160,Telecommunications Certification,Vodafone Idea,Mumbai,5
+Telecommunications,Network Engineer,733637,Cisco Certified Internetwork Expert (CCIE),Tata Communications,Chennai,18
+Telecommunications,Telecommunications Specialist,802183,Telecommunications Certification,Bharti Airtel,Jaipur,14
+Telecommunications,Telecommunications Specialist,794614,Telecommunications Certification,Tata Communications,Lucknow,10
+Telecommunications,Systems Analyst,765776,Systems Analyst Certification,BSNL,Delhi,8
+Telecommunications,Network Engineer,869435,Bachelor's Degree in Telecommunications,Bharti Airtel,Bangalore,15
+Telecommunications,Telecommunications Specialist,1025631,Bachelor's Degree in Telecommunications,Reliance Jio,Ahmedabad,10
+Telecommunications,Network Engineer,1233648,Cisco Certified Internetwork Expert (CCIE),Tata Communications,Bangalore,0
+Telecommunications,Telecommunications Specialist,1269356,Telecommunications Certification,Reliance Jio,Ahmedabad,17
+Telecommunications,Telecommunications Specialist,964040,Bachelor's Degree in Telecommunications,Vodafone Idea,Jaipur,7
+Telecommunications,Network Engineer,1085824,Bachelor's Degree in Telecommunications,BSNL,Ahmedabad,8
+Telecommunications,Telecommunications Specialist,789855,Telecommunications Certification,BSNL,Delhi,17
+Telecommunications,Systems Analyst,1063786,Systems Analyst Certification,Reliance Jio,Pune,6
+Telecommunications,Telecommunications Specialist,1052990,Bachelor's Degree in Telecommunications,BSNL,Jaipur,14
+Telecommunications,Systems Analyst,924373,Systems Analyst Certification,Tata Communications,Jaipur,3
+Telecommunications,Network Engineer,929119,Cisco Certified Internetwork Expert (CCIE),Tata Communications,Bangalore,13
+Telecommunications,Network Engineer,1324432,Cisco Certified Internetwork Expert (CCIE),BSNL,Ahmedabad,5
+Telecommunications,Network Engineer,907626,Bachelor's Degree in Telecommunications,Tata Communications,Kolkata,20
+Telecommunications,Telecommunications Specialist,841147,Bachelor's Degree in Telecommunications,Bharti Airtel,Chennai,14
+Telecommunications,Network Engineer,1012345,Cisco Certified Internetwork Expert (CCIE),Vodafone Idea,Chennai,18
+Telecommunications,Telecommunications Specialist,796870,Telecommunications Certification,Bharti Airtel,Mumbai,17
